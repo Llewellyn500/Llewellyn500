@@ -64,12 +64,12 @@
 
 [website1]: #
 [website2]: #
-[twitter]: #
-[youtube1]: #
-[youtube2]: #
-[instagram]: #
+[twitter]: https://twitter.com/LlewellynAdont1?s=09
+[youtube1]: http://www.youtube.com/c/LPTeach
+[youtube2]: https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA
+[instagram]: https://www.instagram.com/llewellynpaintsil/
 [linkedin]: #
-[facebook]: #
-[snapchat]: #
-[whatsapp]: #
-[telegram]: #
+[facebook]: https://www.facebook.com/llewellyn.paintsil.75
+[snapchat]: https://www.snapchat.com/add/llewellyn_adont
+[whatsapp]: https://wa.me/message/BYMED3AFY4MIG1
+[telegram]: https://t.me/lpteach
