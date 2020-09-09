@@ -46,6 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Packages that you must have in termux](https://www.youtube.com/watch?v=1yF5KknuBIY)
+- [How to use image as banner in termux | No root](https://www.youtube.com/watch?v=u1geJDcS6Po)
+- [How to view images in termux | No root](https://www.youtube.com/watch?v=PkH2K3TV1pw)
+- [Fortune command (Random peoples thoughts)](https://www.youtube.com/watch?v=ZhNALleFe5U)
+- [How to play moon buggy in termux | No root](https://www.youtube.com/watch?v=reuQI97jhrg)
 <!-- YOUTUBE:END -->
 
 [website1]: #
