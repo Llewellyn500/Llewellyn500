@@ -53,6 +53,11 @@
 - [How to play moon buggy in termux | No root](https://www.youtube.com/watch?v=reuQI97jhrg)
 <!-- YOUTUBE:END -->
 
+---
+<img align="left" alt="Llewellyn500's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Llewellyn500&show_icons=true&hide_border=true&theme=radical" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Llewellyn500)](https://github.com/anuraghazra/github-readme-stats)
+
 [website1]: #
 [website2]: #
 [twitter]: #
