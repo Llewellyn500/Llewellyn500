@@ -1,7 +1,7 @@
 ### Hi there, I'm Llewellyn Paintsil - aka [LP Teach][website1]/[Aclapain][website2] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/LlewellynAdont1?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/LlewellynAdont1?s=09)
-[![YouTube Video Views](https://img.shields.io/youtube/views/YuKZEu44VA0?color=red&label=Subscribe&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCoPbnP8F1NCeIf_avTlNxAQ?pbjreload=101)
+[![YouTube Video Views](https://img.shields.io/youtube/views/YuKZEu44VA0?color=red&label=subscribe&logo=youtube&logoColor=red&style=for-the-badge)(https://www.youtube.com/channel/UCoPbnP8F1NCeIf_avTlNxAQ?pbjreload=101)
 
 ## I'm a Student, Designer, Developer, and Youtube content creator!
 
