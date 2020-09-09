@@ -68,7 +68,7 @@
 [youtube1]: http://www.youtube.com/c/LPTeach
 [youtube2]: https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA
 [instagram]: https://www.instagram.com/llewellynpaintsil/
-[linkedin]: #
+[linkedin]: https://www.linkedin.com/in/llewellyn-adonteng-paintsil-40302b1b7
 [facebook]: https://www.facebook.com/llewellyn.paintsil.75
 [snapchat]: https://www.snapchat.com/add/llewellyn_adont
 [whatsapp]: https://wa.me/message/BYMED3AFY4MIG1
