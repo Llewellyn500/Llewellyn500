@@ -57,12 +57,9 @@
 
 <img align="left" alt="Llewellyn500's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Llewellyn500&show_icons=true&hide_border=true&theme=radical" />
 
-<br />
-<br />
-
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Llewellyn500)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llewellyn500)](https://github.com/anuraghazra/github-readme-stats" />
 
 [website1]: #
 [website2]: #
