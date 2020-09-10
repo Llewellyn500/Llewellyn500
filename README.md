@@ -57,6 +57,7 @@
 - [Fortune command (Random peoples thoughts)](https://www.youtube.com/watch?v=ZhNALleFe5U)
 - [How to play moon buggy in termux | No root](https://www.youtube.com/watch?v=reuQI97jhrg)
 <!-- YOUTUBE:END -->
+➡️ [more videos...](http://www.youtube.com/c/LPTeach)
 
 ---
 
