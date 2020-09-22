@@ -52,7 +52,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to create react apps on your mobile device](https://www.youtube.com/watch?v=_u1xx8chA1Q)
+- [How to code react on your phone](https://www.youtube.com/watch?v=_u1xx8chA1Q)
 - [What is git and GitHub](https://www.youtube.com/watch?v=hQ15p9Zf76A)
 - [What is React.js](https://www.youtube.com/watch?v=oKeBtk5iFHs)
 - [Packages that you must have in termux](https://www.youtube.com/watch?v=1yF5KknuBIY)
