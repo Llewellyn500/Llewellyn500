@@ -43,6 +43,7 @@
 <img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" alrt="markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 <img align="left" alrt="trello" width="26px" src="https://avatars.slack-edge.com/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_512.png" />
+<img align="left" alt="code-server" width="26px" src="https://raw.githubusercontent.com/cdr/code-server/v3.5.0/src/browser/media/pwa-icon-96.png" />
 
 <br />
 <br />
