@@ -5,7 +5,7 @@
 
 ## I'm a Student, Designer, Developer, and Youtube content creator!
 
-- 🔭 I’m currently working on my [Youtube Channel][youtube1]!
+- 📚 I’m currently in school learniing to pass my  examinations to get into a good university!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 and beyond Goals: Become a Full stack web developer and Contribute more to Open Source projects and my country
