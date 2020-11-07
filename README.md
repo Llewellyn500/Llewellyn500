@@ -78,7 +78,7 @@
 
 <img align="left" alt="Llewellyn500's Github Stats" src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&hide_border=true&theme=default" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llewellyn500&layout=compact&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llewellyn500&layout=compact&hide_border=true&theme=default" />
 
 [website1]: #
 [website2]: #
