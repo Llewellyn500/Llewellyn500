@@ -27,7 +27,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
 [<img align="left" alt="LP Teach | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube1]
 [<img align="left" alt="LP Teach | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube2]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -80,8 +79,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llewellyn500&layout=compact&hide_border=true&theme=default" />
 
-[website1]: #
-[website2]: #
 [twitter]: https://twitter.com/LlewellynAdont1?s=09
 [youtube1]: http://www.youtube.com/c/LPTeach
 [youtube2]: https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA
