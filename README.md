@@ -1,11 +1,15 @@
 ### Hi there, I'm Llewellyn Paintsil - aka [LP Teach][youtube1]&[Aclapain][youtube2] 👋
 
+<div align="center">
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/LlewellynAdont1?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/LlewellynAdont1?s=09)
 [![YouTube Video Views](https://img.shields.io/youtube/views/YuKZEu44VA0?color=red&label=subscribe&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCoPbnP8F1NCeIf_avTlNxAQ?pbjreload=101)
 
+</div>
+
 ## I'm a Student, Designer, Developer, and Youtube content creator!
 
-- 📚 I’m currently in school learning to pass my  examinations to get into a good university!
+- 📚 I’m currently in school learning to pass my examinations to get into a good university!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 and beyond Goals: Become a Full stack web developer and Contribute more to Open Source projects and my country
@@ -53,13 +57,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [How to code react on your phone](https://www.youtube.com/watch?v=_u1xx8chA1Q)
 - [What is git and GitHub](https://www.youtube.com/watch?v=hQ15p9Zf76A)
 - [What is React.js](https://www.youtube.com/watch?v=oKeBtk5iFHs)
 - [Packages that you must have in termux](https://www.youtube.com/watch?v=1yF5KknuBIY)
 - [How to use image as banner in termux | No root](https://www.youtube.com/watch?v=u1geJDcS6Po)
-<!-- YOUTUBE:END -->
-➡️ [more videos...](http://www.youtube.com/c/LPTeach)
+  <!-- YOUTUBE:END -->
+  ➡️ [more videos...](http://www.youtube.com/c/LPTeach)
 
 ---
 
