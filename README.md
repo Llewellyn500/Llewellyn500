@@ -1,4 +1,8 @@
+<div align= "center">
+
 ### Hi there, I'm Llewellyn Paintsil - aka [LP Teach][youtube1]&[Aclapain][youtube2] 👋
+
+</div>
 
 <div align="center">
 
@@ -7,13 +11,17 @@
 
 </div>
 
+<div align="center">
+
 ## I'm a Student, Designer, Developer, and Youtube content creator!
+
+</div>
 
 - 📚 I’m currently in school learning to pass my examinations to get into a good university!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 and beyond Goals: Become a Full stack web developer and Contribute more to Open Source projects and my country
-- ⚡ Fun fact: I love to draw, play the bass guitar and play video games specifically PUBG Mobile<img align="left" alt="pubg mobile" width="26px" src="https://www.notebookcheck.net/fileadmin/_processed_/0/3/csm_PUBGF_Mobile_indian_ban_d1c61a1be1.jpg" />
+- ⚡ Fun fact: I love to draw, play the bass guitar and play video games specifically PUBG Mobile <img align="right" alt="pubg mobile" width="26px" src="https://www.notebookcheck.net/fileadmin/_processed_/0/3/csm_PUBGF_Mobile_indian_ban_d1c61a1be1.jpg" />
 
 <br />
 
