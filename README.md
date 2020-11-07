@@ -1,6 +1,6 @@
 <div align= "center">
 
-# Hi there, I'm Llewellyn Paintsil - aka [LP Teach][youtube1]&[Aclapain][youtube2] 👋
+# Hi there, I'm Llewellyn Paintsil - aka [LP Teach][youtube1] & [Aclapain][youtube2] 👋
 
 </div>
 
