@@ -1,15 +1,21 @@
 <div align= "center">
 
-### Hi there, I'm Llewellyn Paintsil - aka [LP Teach][youtube1]&[Aclapain][youtube2] 👋
+# Hi there, I'm Llewellyn Paintsil - aka [LP Teach][youtube1]&[Aclapain][youtube2] 👋
 
 </div>
 
+<!--
+  Badges section begins
+  TODO: add more badges when you create a new community
+-->
 <div align="center">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/LlewellynAdont1?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/LlewellynAdont1?s=09)
 [![YouTube Video Views](https://img.shields.io/youtube/views/YuKZEu44VA0?color=red&label=subscribe&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCoPbnP8F1NCeIf_avTlNxAQ?pbjreload=101)
 
 </div>
+
+<!-- Badges section end -->
 
 <div align="center">
 
@@ -61,7 +67,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 
@@ -78,6 +84,8 @@
 <img align="left" alt="Llewellyn500's Github Stats" src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&hide_border=true&theme=default" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llewellyn500&layout=compact&hide_border=true&theme=default" />
+
+<!-- *All links in this can be found here -->
 
 [twitter]: https://twitter.com/LlewellynAdont1?s=09
 [youtube1]: http://www.youtube.com/c/LPTeach
