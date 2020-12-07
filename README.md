@@ -70,7 +70,7 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to download anime from 9anime to on mobile(update)](https://www.youtube.com/watch?v=qcrPcstQG_o)
+- [How to download anime from 9anime to on mobile(update)](https://www.youtube.com/watch?v=bPZuwsCiwGM)
 - [I'M Back! With Improvements](https://www.youtube.com/watch?v=aAXtc3f2mR8)
 - [How to code react on your phone](https://www.youtube.com/watch?v=_u1xx8chA1Q)
 - [What is git and GitHub](https://www.youtube.com/watch?v=hQ15p9Zf76A)
