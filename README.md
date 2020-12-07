@@ -70,11 +70,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to download anime from 9anime to on mobile(update)](https://www.youtube.com/watch?v=qcrPcstQG_o)
 - [I'M Back! With Improvements](https://www.youtube.com/watch?v=aAXtc3f2mR8)
 - [How to code react on your phone](https://www.youtube.com/watch?v=_u1xx8chA1Q)
 - [What is git and GitHub](https://www.youtube.com/watch?v=hQ15p9Zf76A)
 - [What is React.js](https://www.youtube.com/watch?v=oKeBtk5iFHs)
-- [Packages that you must have in termux](https://www.youtube.com/watch?v=1yF5KknuBIY)
 <!-- YOUTUBE:END -->
   ➡️ [more videos...](http://www.youtube.com/c/LPTeach)
 
