@@ -33,7 +33,7 @@
 
 ### Connect with me:
 
-<span style="mix-blend-mode: difference;">
+<span color="white">
   
 [<img align="left" alt="LP Teach | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube1]
 [<img align="left" alt="LP Teach | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube2]
