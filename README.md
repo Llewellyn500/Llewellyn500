@@ -70,11 +70,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to play videos in termux](https://www.youtube.com/watch?v=H3dJkbifflQ)
 - [Greed Game in termux](https://www.youtube.com/watch?v=CPfYDHdnstM)
 - [How to use VS Code on your phone](https://www.youtube.com/watch?v=UoYBTrff0g8)
 - [How to code React js on mobile VS Code method](https://www.youtube.com/watch?v=9T-6waVWGb8)
 - [How to remove evil eye banner in Termux](https://www.youtube.com/watch?v=wFFEz8AcL74)
-- [Animepahe - Watch and download anime at low data cost for free](https://www.youtube.com/watch?v=jKwueZPjYa0)
 <!-- YOUTUBE:END -->
   ➡️ [more videos...](http://www.youtube.com/c/LPTeach)
 
