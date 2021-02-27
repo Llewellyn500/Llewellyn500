@@ -11,24 +11,22 @@
 
 # Hi there 👋, I'm Llewellyn Adonteng Paintsil
 
-I'm a Student, Designer, Developer, and Youtube content creator! - aka [LP Teach][youtube1] & [Arclapain][youtube2]
+I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creator. I have two youtube channels [LP Teach][youtube1] & [Arclapain][youtube2]. I'm from Ghana and started coding with only my phone in the year 2020 during the Covid pandemic. It wasnt easy using only a phone to write code and learn, but with God's help I was able to go through that tough time. I had greate interest in computers long before the Corona pandemic but my parents wouldn't let me persue my dreams.
 
-
-- 📚 I’m currently in school learning to pass my examinations to get into a good university!
-- 🌱 I’m currently learning everything 🤣
+- 📚 I’m currently learning to pass my examinations to get into a good university!
+- 🌱 I'm aiming to become a great Developer 💪
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 and beyond Goals: Become a Full stack web developer and Contribute more to Open Source projects and my country
-- ⚡ Fun fact: I love to draw, play the bass guitar and play video games specifically PUBG Mobile <img alt="Pubg Mobile Logo" width="22px" src="./images/pubg logo.png"/>
+- ⚡ Fun fact about me: I love to draw, play the bass guitar, watch anime, play video games but above all of them, I love to code. 
 
 <br />
 
-### Connect with me:
+### 📱 Connect with me:
   
 [<img align="left" alt="LP Teach | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube1]
-[<img align="left" alt="LP Teach | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube2]
+[<img align="left" alt="Arclapain | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube2]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="@LlewellynAdont1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LP Teach | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />][snapchat]
 [<img align="left" alt="LP Teach | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="LP Teach | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="Llewellyn Paintsil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -36,7 +34,7 @@ I'm a Student, Designer, Developer, and Youtube content creator! - aka [LP Teach
 
 <br />
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <img align="left" alt="Acode" width="26px" src="https://github.com/deadlyjack/code-editor/blob/master/res/icon/android/ic_launcher-web.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -52,6 +50,7 @@ I'm a Student, Designer, Developer, and Youtube content creator! - aka [LP Teach
 <img align="left" alrt="markdown" width="26px" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png" />
 <img align="left" alrt="trello" width="26px" src="https://avatars.slack-edge.com/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_512.png" />
 <img align="left" alt="code-server" width="26px" src="https://raw.githubusercontent.com/cdr/code-server/v3.5.0/src/browser/media/pwa-icon-96.png" />
+<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
 
 <br />
 <br />
