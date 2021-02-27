@@ -57,6 +57,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <br />
 
+---
 
 ## 📺 Latest YouTube Videos
 
