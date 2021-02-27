@@ -34,6 +34,8 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <br />
 
+<br />
+
 ### 🛠️ Languages and Tools:
 
 <img align="left" alt="Acode" width="26px" src="https://github.com/deadlyjack/code-editor/blob/master/res/icon/android/ic_launcher-web.png" />
@@ -53,9 +55,9 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
 
 <br />
+
 <br />
 
----
 
 ## 📺 Latest YouTube Videos
 
