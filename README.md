@@ -1,13 +1,6 @@
-<div align= "center">
+![Design and Development](https://github.com/Llewellyn500/Llewellyn500/blob/master/Banner.png)
 
-# Hi there, I'm Llewellyn Paintsil - aka [LP Teach][youtube1] & [Arclapain][youtube2] 👋
 
-</div>
-
-<!--
-  Badges section begins
-  TODO: add more badges when you create a new community
--->
 <div align="center">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/LlewellynAdont1?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/LlewellynAdont1?s=09)
@@ -15,13 +8,11 @@
 
 </div>
 
-<!-- Badges section end -->
 
-<div align="center">
+# Hi there 👋, I'm Llewellyn Adonteng Paintsil
 
-## I'm a Student, Designer, Developer, and Youtube content creator!
+I'm a Student, Designer, Developer, and Youtube content creator! - aka [LP Teach][youtube1] & [Arclapain][youtube2]
 
-</div>
 
 - 📚 I’m currently in school learning to pass my examinations to get into a good university!
 - 🌱 I’m currently learning everything 🤣
