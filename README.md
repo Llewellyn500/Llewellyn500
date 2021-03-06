@@ -23,15 +23,15 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 ### 📱 Connect with me:
   
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LP Teach | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube1]
-[<img align="left" alt="Arclapain | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube2]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="@LlewellynAdont1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LP Teach | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="LP Teach | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="Llewellyn Paintsil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="llewellynpaintsil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Portfolio" width="22px" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" />][website]
+[<img align="left" alt="LP Teach | YouTube" width="22px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube1]
+[<img align="left" alt="Arclapain | YouTube" width="22px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube2]
+[<img align="left" width="29px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19754.png" />][facebook]
+[<img align="left" alt="@LlewellynAdont1 | Twitter" width="29px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
+[<img align="left" alt="LP Teach | YouTube" width="22px" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" />][telegram]
+[<img align="left" alt="LP Teach | YouTube" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" />][whatsapp]
+[<img align="left" alt="Llewellyn Paintsil | LinkedIn" width="22px" src="https://lh3.googleusercontent.com/proxy/19Yf973XPYUQeRd9RqbsR8XsgL2-oK8hlLxeHBANJVQchZZBZT7i2YLwU9dJ0OUObJ_R6quPh89PkP87WnXBDLIgIwEpXQNLe4r0FQS40McQ4M4PgF4ZdpLZ3sD9Ce6wyPo" />][linkedin]
+[<img align="left" alt="llewellynpaintsil | Instagram" width="22px" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" />][instagram]
 
 <br />
 
@@ -46,11 +46,10 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Arduino" width="26px" src="https://github.com/deadlyjack/code-editor/blob/8691b56761c45aa18bd47831cd4f9900013e7704/www/res/icon-file/icons/file_type_arduino.svg" />
 <img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-<img align="left" alrt="markdown" width="26px" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png" />
 <img align="left" alrt="trello" width="26px" src="https://avatars.slack-edge.com/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_512.png" />
 <img align="left" alt="code-server" width="26px" src="https://raw.githubusercontent.com/cdr/code-server/v3.5.0/src/browser/media/pwa-icon-96.png" />
 <img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
