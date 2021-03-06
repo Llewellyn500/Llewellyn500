@@ -37,24 +37,32 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <br />
 
-### 🛠️ Languages and Tools:
+### 💬 Languages:
 
-<img align="left" alt="Acode" width="26px" src="https://github.com/deadlyjack/code-editor/blob/master/res/icon/android/ic_launcher-web.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<br />
+
+### 💻 Frameworks:
+
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<br />
+
+### 🛠 Tools:
+
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Arduino" width="26px" src="https://github.com/deadlyjack/code-editor/blob/8691b56761c45aa18bd47831cd4f9900013e7704/www/res/icon-file/icons/file_type_arduino.svg" />
 <img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-<img align="left" alrt="trello" width="26px" src="https://avatars.slack-edge.com/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_512.png" />
-<img align="left" alt="code-server" width="26px" src="https://raw.githubusercontent.com/cdr/code-server/v3.5.0/src/browser/media/pwa-icon-96.png" />
+<img align="left" alrt="trello" width="29px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/trello-logo.png" />
+<img align="left" alt="Acode" width="26px" src="https://m7f3f2j9.rocketcdn.me/wp-content/uploads/2020/08/acode-powerful-code-editor.png" />
+<img align="left" alt="code-server" width="29px" src="https://github.com/cdr/code-server/blob/main/src/browser/media/pwa-icon.png?raw=true" />
 <img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
-
-<br />
 
 <br />
 
