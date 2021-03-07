@@ -30,7 +30,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 [<img align="left" alt="@LlewellynAdont1 | Twitter" width="29px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
 [<img align="left" alt="LP Teach | YouTube" width="22px" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" />][telegram]
 [<img align="left" alt="LP Teach | YouTube" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" />][whatsapp]
-[<img align="left" alt="Llewellyn Paintsil | LinkedIn" width="22px" src="https://lh3.googleusercontent.com/proxy/19Yf973XPYUQeRd9RqbsR8XsgL2-oK8hlLxeHBANJVQchZZBZT7i2YLwU9dJ0OUObJ_R6quPh89PkP87WnXBDLIgIwEpXQNLe4r0FQS40McQ4M4PgF4ZdpLZ3sD9Ce6wyPo" />][linkedin]
+[<img align="left" alt="Llewellyn Paintsil | LinkedIn" width="22px" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" />][linkedin]
 [<img align="left" alt="llewellynpaintsil | Instagram" width="22px" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" />][instagram]
 
 <br />
