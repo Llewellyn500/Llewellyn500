@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Portfolio&logo=opera&logoColor=green&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fllewellyn500.github.io)](https://llewellyn500.github.io)
+[![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Portfolio&logo=opera&logoColor=green&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fllewellyn500.github.io/portfolio/)](https://llewellyn500.github.io/portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LlewellynAdont1?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/LlewellynAdont1?s=09) 
 
 </div>
@@ -87,7 +87,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <!-- *All links in this can be found here -->
 
-[website]: https://llewellyn500.github.io/
+[website]: https://llewellyn500.github.io/portfolio/
 [twitter]: https://twitter.com/LlewellynAdont1?s=09
 [youtube1]: http://www.youtube.com/c/LPTeach
 [youtube2]: https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA
