@@ -73,7 +73,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <br />
 
-<h1 align="center"> 📺 Latest YouTube Videos </h1>
+<h2 align="center"> 📺 Latest YouTube Videos </h2>
 
 <!-- YOUTUBE:START -->
 - [How to play videos in termux](https://www.youtube.com/watch?v=H3dJkbifflQ)
