@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/Llewellyn500/Llewellyn500/blob/master/Banner.png)
+<div align="center">![Design and Development](https://github.com/Llewellyn500/Llewellyn500/blob/master/Banner.png)</div>
 
 
 <div align="center">
@@ -10,6 +10,9 @@
 # Hi there 👋, I'm Llewellyn Adonteng Paintsil
 
 I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creator. I have two youtube channels [LP Teach][youtube1] & [Arclapain][youtube2]. I'm from Ghana and started coding with only my phone in the year 2020 during the Covid pandemic. It was't easy using only a phone to write code and learn, but with God's help I was able to go through that tough time. I had great interest in computers long before the Corona pandemic but I didn't want to distract myself from my school work too much so I suppressed those interests to make sure I pass.
+
+</div>
+
 
 - 📚 I’m currently learning to pass my examinations to get into a good university!
 - 🌱 I'm aiming to become a great Developer 💪
