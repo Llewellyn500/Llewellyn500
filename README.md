@@ -85,9 +85,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
   ➡️ [more videos...](http://www.youtube.com/c/LPTeach)
 
 <br />
-
----
-
+<div></div>
 <br />
 
 <img align="center" alt="Llewellyn500's Github Stats" src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&hide_border=true&theme=default" />
