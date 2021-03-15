@@ -24,15 +24,15 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 ### 📱 Connect with me:
   
-[<img align="left" alt="Portfolio" width="22px" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" />][website]
-[<img align="left" alt="LP Teach | YouTube" width="22px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube1]
-[<img align="left" alt="Arclapain | YouTube" width="22px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube2]
-[<img align="left" width="29px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19754.png" />][facebook]
-[<img align="left" alt="@LlewellynAdont1 | Twitter" width="29px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
-[<img align="left" alt="LP Teach | YouTube" width="22px" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" />][telegram]
-[<img align="left" alt="LP Teach | YouTube" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" />][whatsapp]
-[<img align="left" alt="Llewellyn Paintsil | LinkedIn" width="22px" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" />][linkedin]
-[<img align="left" alt="llewellynpaintsil | Instagram" width="22px" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" />][instagram]
+[<img  alt="Portfolio" width="22px" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" />][website]
+[<img  alt="LP Teach | YouTube" width="22px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube1]
+[<img  alt="Arclapain | YouTube" width="22px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube2]
+[<img  width="29px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19754.png" />][facebook]
+[<img  alt="@LlewellynAdont1 | Twitter" width="29px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
+[<img  alt="LP Teach | YouTube" width="22px" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" />][telegram]
+[<img  alt="LP Teach | YouTube" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" />][whatsapp]
+[<img  alt="Llewellyn Paintsil | LinkedIn" width="22px" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" />][linkedin]
+[<img  alt="llewellynpaintsil | Instagram" width="22px" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" />][instagram]
 
 <br />
 
