@@ -6,8 +6,6 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Portfolio&logo=opera&logoColor=green&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fllewellyn500.github.io/portfolio/)](https://llewellyn500.github.io/portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LlewellynAdont1?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/LlewellynAdont1?s=09) 
 
-</div>
-
 
 # Hi there 👋, I'm Llewellyn Adonteng Paintsil
 
@@ -84,6 +82,8 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <img align="left" alt="Llewellyn500's Github Stats" src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&hide_border=true&theme=default" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llewellyn500&layout=compact&hide_border=true&theme=default" />
+
+</div>
 
 <!-- *All links in this can be found here -->
 
