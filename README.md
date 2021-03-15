@@ -46,9 +46,13 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <br />
 
+<br />
+
 ### 💻 Frameworks:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<br />
 
 <br />
 
@@ -67,9 +71,9 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <br />
 
----
+<br />
 
-## 📺 Latest YouTube Videos
+<h1 align="center"> 📺 Latest YouTube Videos <h1>
 
 <!-- YOUTUBE:START -->
 - [How to play videos in termux](https://www.youtube.com/watch?v=H3dJkbifflQ)
