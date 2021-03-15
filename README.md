@@ -73,7 +73,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <br />
 
-<h1 align="center"> 📺 Latest YouTube Videos <h1>
+<h1 align="center"> 📺 Latest YouTube Videos </h1>
 
 <!-- YOUTUBE:START -->
 - [How to play videos in termux](https://www.youtube.com/watch?v=H3dJkbifflQ)
@@ -84,7 +84,11 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <!-- YOUTUBE:END -->
   ➡️ [more videos...](http://www.youtube.com/c/LPTeach)
 
+<br />
+
 ---
+
+<br />
 
 <img align="center" alt="Llewellyn500's Github Stats" src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&hide_border=true&theme=default" />
 
