@@ -1,4 +1,4 @@
-<div align="center">![Design and Development](https://github.com/Llewellyn500/Llewellyn500/blob/master/Banner.png)</div>
+<img src="./Banner.png" align="center">
 
 
 <div align="center">
