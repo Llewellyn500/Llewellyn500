@@ -20,7 +20,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 - 🥅 2020 and beyond Goals: Become a Full stack web developer and Contribute more to Open Source projects and my country
 - ⚡ Fun fact about me: I love to draw, play the bass guitar, watch anime, play video games but above all of them, I love to code. 
 
-<br />
+<br>
 
 ### 📱 Connect with me:
   
@@ -34,9 +34,9 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 [<img align="left" alt="Llewellyn Paintsil | LinkedIn" width="22px" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" />][linkedin]
 [<img align="left" alt="llewellynpaintsil | Instagram" width="22px" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" />][instagram]
 
-<br />
+<br>
 
-<br />
+<br>
 
 ### 💬 Languages:
 
@@ -44,17 +44,17 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<br />
+<br>
 
-<br />
+<br>
 
 ### 💻 Frameworks:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<br />
+<br>
 
-<br />
+<br>
 
 ### 🛠 Tools:
 
@@ -69,9 +69,9 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <img align="left" alt="code-server" width="29px" src="https://github.com/cdr/code-server/blob/main/src/browser/media/pwa-icon.png?raw=true" />
 <img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
 
-<br />
+<br>
 
-<br />
+<br>
 
 <h2 align="center"> 📺 Latest YouTube Videos </h2>
 
@@ -84,9 +84,9 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <!-- YOUTUBE:END -->
   ➡️ [more videos...](http://www.youtube.com/c/LPTeach)
 
-<br />
-<div></div>
-<br />
+<br>
+
+<br>
 
 <img align="center" alt="Llewellyn500's Github Stats" src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&hide_border=true&theme=default" />
 
