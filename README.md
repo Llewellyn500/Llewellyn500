@@ -15,7 +15,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 
 - 📚 I’m currently learning to pass my examinations to get into a good university!
-- 🌱 I'm aiming to become a great Developer 💪
+- 🌱 I'm aiming to become a great Developer 👨‍💻 and YouTuber 🖥.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 and beyond Goals: Become a Full stack web developer and Contribute more to Open Source projects and my country
 - ⚡ Fun fact about me: I love to draw, play the bass guitar, watch anime, play video games but above all of them, I love to code. 
