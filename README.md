@@ -78,7 +78,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <!-- YOUTUBE:START -->
 - [How to play videos in termux](https://www.youtube.com/watch?v=H3dJkbifflQ)
 - [Greed Game in termux](https://www.youtube.com/watch?v=CPfYDHdnstM)
-- [How to use VS Code on your phone](https://www.youtube.com/watch?v=UoYBTrff0g8)
+- [VSCode on mobile](https://www.youtube.com/watch?v=UoYBTrff0g8)
 - [How to code React js on mobile VS Code method](https://www.youtube.com/watch?v=9T-6waVWGb8)
 - [How to remove evil eye banner in Termux](https://www.youtube.com/watch?v=wFFEz8AcL74)
 <!-- YOUTUBE:END -->
