@@ -1,4 +1,4 @@
-<img src="./Banner.png" align="center">
+<img src="./images/banner.png" align="center">
 
 
 <div align="center">
