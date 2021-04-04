@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/LlewellynAdont1?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/LlewellynAdont1?s=09) 
 
 
-# Hi there 👋, I'm Llewellyn Adonteng Paintsil
+# Hi there <img  height="57px" src="https://camo.githubusercontent.com/c5763e7c322079fa5e6256670a7ba475d7d41b94afc2d033ef72a9b98a62ef80/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62363137633336663964623237366433313436653937346238666636346634632f74656e6f722e676966" />, I'm Llewellyn Adonteng Paintsil
 
 I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creator. I have two youtube channels [LP Teach][youtube1] & [Arclapain][youtube2]. I'm from Ghana and started coding with only my phone in the year 2020 during the Covid pandemic. It was't easy using only a phone to write code and learn, but with God's help I was able to go through that tough time. I had great interest in computers long before the Corona pandemic but I didn't want to distract myself from my school work too much so I suppressed those interests to make sure I pass.
 
