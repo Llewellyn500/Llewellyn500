@@ -24,7 +24,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://now-playing-red.vercel.app/api/spotify)](https://open.spotify.com/user/31oqgy33mbfmztovhp2eguowwti4)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31oqgy33mbfmztovhp2eguowwti4)
 
 ### 📱 Connect with me:
   
