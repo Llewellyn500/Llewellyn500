@@ -22,9 +22,9 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <br>
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧 -->
 
-[<img src="https://spotify-readme-black-mu.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31oqgy33mbfmztovhp2eguowwti4)
+<!-- [<img src="https://spotify-readme-black-mu.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31oqgy33mbfmztovhp2eguowwti4) -->
 
 ### 📱 Connect with me:
   
