@@ -22,6 +22,10 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <br>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://sportify-playing.vercel.app/api/spotify)](https://open.spotify.com/user/31oqgy33mbfmztovhp2eguowwti4)
+
 ### 📱 Connect with me:
   
 [<img align="leftr" alt="Portfolio" width="22px" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" />][website]
