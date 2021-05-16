@@ -29,8 +29,8 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 [<img align="left" alt="Arclapain | YouTube" width="22px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube2]
 [<img align="left" width="29px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19754.png" />][facebook]
 [<img align="left" alt="@LlewellynAdont1 | Twitter" width="29px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
-[<img align="left" alt="LP Teach | YouTube" width="22px" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" />][telegram]
-[<img align="left" alt="LP Teach | YouTube" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" />][whatsapp]
+[<img align="left" alt="LP Teach | Telegram" width="22px" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" />][telegram]
+[<img align="left" alt="LP Teach | Whatsapp" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" />][whatsapp]
 [<img align="left" alt="Llewellyn Paintsil | LinkedIn" width="22px" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" />][linkedin]
 [<img align="left" alt="llewellynpaintsil | Instagram" width="22px" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" />][instagram]
 
@@ -65,7 +65,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <img align="left" alt="Arduino" width="26px" src="https://github.com/deadlyjack/code-editor/blob/8691b56761c45aa18bd47831cd4f9900013e7704/www/res/icon-file/icons/file_type_arduino.svg" />
 <img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" alrt="trello" width="29px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/trello-logo.png" />
-<img align="left" alt="Acode" width="26px" src="https://m7f3f2j9.rocketcdn.me/wp-content/uploads/2020/08/acode-powerful-code-editor.png" />
+<img align="left" alt="Acode" width="26px" src="https://download.cnet.com/a/img/catalog/2020/04/22/6a7a554a-9c2c-4e76-93c4-ce7c5e5997b9/imgingest-8909915181455230082.png" />
 <img align="left" alt="code-server" width="29px" src="https://github.com/cdr/code-server/blob/main/src/browser/media/pwa-icon.png?raw=true" />
 <img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
 
