@@ -92,9 +92,9 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <br>
 
-<img align="center" alt="Llewellyn500's Github Stats" src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&hide_border=true&theme=default" />
+<img align="center" alt="Llewellyn500's Github Stats" src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&hide_border=true&theme=algolia" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llewellyn500&layout=compact&hide_border=true&theme=default" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llewellyn500&layout=compact&hide_border=true&theme=algolia" />
 
 
 <!-- *All links in this can be found here -->
