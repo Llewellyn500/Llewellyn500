@@ -33,7 +33,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 </ul>
 </p>
 
----
+
 
 <!-- Social Media Links -->
 <h2>📱 Connect with me:</h2>
@@ -53,7 +53,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <a href="https://www.twitch.tv/arclapain"><img alt="Pinterest" src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=fff"/></a>
 </p>
 
----
+
 
 <h2>💬 Languages:</h2>
 <p>
@@ -68,7 +68,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 </a>
 </p>
 
----
+
 
 <h2>📚 Libraries:</h2>
 <p>
@@ -77,7 +77,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 </a>
 </p>
 
----
+
 
 <h2>🛠 Tools:</h2>
 <p>
@@ -137,7 +137,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 </a>
 </p>
 
----
+
 
 <h2 align="center"> 📺 Latest YouTube Videos </h2>
 
@@ -150,7 +150,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <!-- YOUTUBE:END -->
   ➡️ [more videos...](http://www.youtube.com/c/LPTeach)
 
----
+
 
 <h2 align="center"> 👌 GitHub Stats </h2>
 <p align="center">
