@@ -3,8 +3,6 @@
 <img src="./images/banner.png">
 </p>
 
-<br>
-
 <div align="center">
 
 <!-- Intro Cards -->
@@ -13,8 +11,6 @@
 <img alt="My Portfolio" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Portfolio&logo=opera&logoColor=green&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fllewellyn500.github.io/portfolio/"></a> <a href="https://github.com/Llewellyn500"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Llewellyn500?color=white&logo=github&style=for-the-badge"></a> <a href="https://twitter.com/LlewellynAdont1?s=09">
 <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/LlewellynAdont1?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge"></a>
 </p>
-
-<br>
 
 <!-- Heading -->
 <h1> 
@@ -37,15 +33,10 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 </ul>
 </p>
 
-<br>
-
 ---
-
-<br>
 
 <!-- Social Media Links -->
 <h2>📱 Connect with me:</h2>
-<br>
 <p>
 <a href="https://llewellyn500.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-2196f3?style=for-the-badge&logo=opera&logoColor=fff"/></a>
 <a href="https://www.linkedin.com/in/llewellynpaintsil"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
@@ -62,11 +53,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <a href="https://www.twitch.tv/arclapain"><img alt="Pinterest" src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=fff"/></a>
 </p>
 
-<br>
-
 ---
-
-<br>
 
 <h2>💬 Languages:</h2>
 <p>
@@ -81,39 +68,78 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 </a>
 </p>
 
-<br>
+---
+
+<h2>📚 Libraries:</h2>
+<p>
+<a href="https://reactjs.org/">
+<img alt="React.js" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original-wordmark.svg"/>
+</a>
+</p>
 
 ---
 
-<br>
+<h2>🛠 Tools:</h2>
+<p>
+<a href="https://nodejs.org/">
+<img alt="Node.js" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nodejs/nodejs-original.svg" />
+</a>
+<a href="https://git-scm.com/">
+<img alt="Git" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg" />
+</a>
+<a href="https://github.com/">
+<img alt="GitHub" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" />
+</a>
+<a href="https://www.gnu.org/software/bash/">
+<img alt="Bash" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bash/bash-original.svg" />
+</a>
+<a href="https://www.arduino.cc/">
+<img alt="Arduino" width="50px" height="40px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/arduino-logo.png" />
+</a>
+<a href="https://www.npmjs.com/">
+<img alt="NPM" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/npm/npm-original-wordmark.svg" />
+</a>
+<a href="https://yarnpkg.com/">
+<img alt="Yarn" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/yarn/yarn-original.svg" />
+</a>
+<a href="https://www.notion.so/">
+<img alt="notion" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
+</a>
+<a href="https://acode.foxdebug.com/">
+<img alt="Acode" width="40px" height="40px" src="https://download.cnet.com/a/img/catalog/2020/04/22/6a7a554a-9c2c-4e76-93c4-ce7c5e5997b9/imgingest-8909915181455230082.png" />
+</a>
+<a href="https://github.com/cdr/code-server">
+<img alt="Code-Server" width="40px" height="40px" src="https://github.com/cdr/code-server/blob/main/src/browser/media/pwa-icon.png?raw=true" />
+</a>
+<a href="https://code.visualstudio.com/">
+<img alt="VS Code" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
+</a>
+<a href="https://www.adobe.com/products/photoshop.html">
+<img alt="Photoshop" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/photoshop/photoshop-plain.svg" />
+</a>
+<a href="https://www.adobe.com/products/xd.html">
+<img alt="XD" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/xd/xd-plain.svg" />
+</a>
+<a href="https://www.adobe.com/products/illustrator.html">
+<img alt="Illustrator" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/illustrator/illustrator-plain.svg" />
+</a>
+<a href="https://www.adobe.com/products/aftereffects.html">
+<img alt="After Effects" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/aftereffects/aftereffects-original.svg" />
+</a>
+<a href="https://www.adobe.com/products/premiere.html">
+<img alt="Premiere Pro" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/premierepro/premierepro-original.svg" />
+</a>
+<a href="https://www.android.com/">
+<img alt="Android" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/android/android-original.svg" />
+</a>
+<a href="https://www.microsoft.com/en-us/windows">
+<img alt="Windows" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/windows8/windows8-original.svg" />
+</a>
+</p>
 
-### 📚 Libraries:
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<br>
-
-<br>
-
-### 🛠 Tools:
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Arduino" width="26px" src="https://github.com/deadlyjack/code-editor/blob/8691b56761c45aa18bd47831cd4f9900013e7704/www/res/icon-file/icons/file_type_arduino.svg" />
-<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-<img align="left" alt="trello" width="29px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/trello-logo.png" />
-<img align="left" alt="Acode" width="26px" src="https://download.cnet.com/a/img/catalog/2020/04/22/6a7a554a-9c2c-4e76-93c4-ce7c5e5997b9/imgingest-8909915181455230082.png" />
-<img align="left" alt="code-server" width="29px" src="https://github.com/cdr/code-server/blob/main/src/browser/media/pwa-icon.png?raw=true" />
-<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
-
-<br>
-
-<br>
+---
 
 <h2 align="center"> 📺 Latest YouTube Videos </h2>
-
 <!-- YOUTUBE:START -->
 
 - [How to play videos in termux](https://www.youtube.com/watch?v=H3dJkbifflQ)
@@ -122,14 +148,12 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 - [How to code React js on mobile VS Code method](https://www.youtube.com/watch?v=9T-6waVWGb8)
 - [How to remove evil eye banner in Termux](https://www.youtube.com/watch?v=wFFEz8AcL74)
   <!-- YOUTUBE:END -->
-  ➡️ [more videos...](http://www.youtube.com/c/LPTeach)
 
-<br>
+➡️ [more videos...](http://www.youtube.com/c/LPTeach)
 
-<br>
+---
 
 <h2 align="center"> 👌 GitHub Stats </h2>
-
+<p align="center">
 <img src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&hide_border=true&theme=algolia" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llewellyn500&layout=compact&hide_border=true&theme=algolia" />
+</p>
