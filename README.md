@@ -8,7 +8,7 @@
 <!-- Intro Cards -->
 <p>
 <a href="https://llewellyn500.github.io/portfolio/">
-<img alt="My Portfolio" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Portfolio&logo=opera&logoColor=2196f3&style=for-the-badge&up_color=2196f3&up_message=Online&url=https%3A%2F%2Fllewellyn500.github.io/portfolio/"></a> <a href="https://github.com/Llewellyn500"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Llewellyn500?color=white&logo=github&style=for-the-badge"></a> <a href="https://twitter.com/LlewellynAdont1?s=09">
+<img alt="My Portfolio" src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Portfolio&logo=opera&logoColor=2196f3&style=for-the-badge&up_color=2196f3&up_message=UP&url=https%3A%2F%2Fllewellyn500.github.io/portfolio/"></a> <a href="https://github.com/Llewellyn500"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Llewellyn500?color=white&logo=github&style=for-the-badge"></a> <a href="https://twitter.com/LlewellynAdont1?s=09">
 <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/LlewellynAdont1?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge"></a> 
 </p>
 
