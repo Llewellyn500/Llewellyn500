@@ -47,8 +47,6 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <a href="https://www.facebook.com/llewellyn.paintsil.75"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=fff"/></a>
 <a href="https://t.me/lpteach"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff"/></a>
 <a href="https://wa.me/message/BYMED3AFY4MIG1"><img alt="whatsApp" src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff"/></a>
-<a href="https://discord.io/LP-Teach"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=fff"/></a>
-<a href="https://medium.com/@llewellynpaintsil34"><img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=fff"/></a>
 <a href="https://www.pinterest.com/llewellynpaintsil/"><img alt="Pinterest" src="https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=fff"/></a>
 <a href="https://www.twitch.tv/arclapain"><img alt="Pinterest" src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=fff"/></a>
 </p>
