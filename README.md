@@ -7,8 +7,8 @@
 
 <!-- Intro Cards -->
 <p>
-<a href="https://llewellyn500.github.io/portfolio/">
-<img alt="My Portfolio" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Portfolio&logo=opera&logoColor=2196f3&style=for-the-badge&up_color=2196f3&up_message=Online&url=https%3A%2F%2Fllewellyn500.github.io/portfolio/"></a> <a href="https://github.com/Llewellyn500"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Llewellyn500?color=white&logo=github&style=for-the-badge"></a> <a href="https://twitter.com/LlewellynAdont1?s=09">
+<a href="https://bit.ly/Llewellyn-portfolio-v1">
+<img alt="My Portfolio" src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Portfolio&logo=opera&logoColor=2196f3&style=for-the-badge&up_color=2196f3&up_message=UP&url=https%3A%2F%2Fllewellyn500.github.io/portfolio/"></a> <a href="https://github.com/Llewellyn500"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Llewellyn500?color=white&logo=github&style=for-the-badge"></a> <a href="https://twitter.com/LlewellynAdont1?s=09">
 <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/LlewellynAdont1?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge"></a> 
 </p>
 
@@ -38,7 +38,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <!-- Social Media Links -->
 <h2>📱 Connect with me:</h2>
 <p>
-<a href="https://llewellyn500.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-2196f3?style=for-the-badge&logo=opera&logoColor=fff"/></a>
+<a href="https://bit.ly/Llewellyn-portfolio-v1"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-2196f3?style=for-the-badge&logo=opera&logoColor=fff"/></a>
 <a href="https://www.linkedin.com/in/llewellynpaintsil"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
 <a href="http://www.youtube.com/c/LPTeach"><img alt="LP Teach Youtube Channel" src="https://img.shields.io/badge/-LP Teach-FF0000?style=for-the-badge&logo=youtube&logoColor=fff"/></a>
 <a href="https://www.instagram.com/llewellynpaintsil/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff"/></a>
