@@ -19,7 +19,7 @@ Hi there <img  height="40px" src="https://camo.githubusercontent.com/c5763e7c322
 
 <!-- Body -->
 <p>
-I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creator. I have two youtube channels <a href="http://www.youtube.com/c/LPTeach">LP Teach</a> & <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA">Arclapain</a>. I'm from Ghana and started coding with only my phone in the year 2020 during the Covid pandemic. It wasn't easy using only a phone to write code and learn, but with God's help I was able to go through that tough time. I had great interest in computers long before the Corona pandemic but I didn't want to distract myself from my school work too much so I suppressed those interests to make sure I pass.
+I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creator. I have two youtube channels <a href="http://www.youtube.com/c/LPTeach" target="_blank">LP Teach</a> & <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA" target="_blank">Arclapain</a>. I'm from Ghana and started coding with only my phone in the year 2020 during the Covid pandemic. It wasn't easy using only a phone to write code and learn, but with God's help I was able to go through that tough time. I had great interest in computers long before the Corona pandemic but I didn't want to distract myself from my school work too much so I suppressed those interests to make sure I pass.
 </p>
 </div>
 
