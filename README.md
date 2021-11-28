@@ -128,10 +128,12 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 </p>
 
 <h2 align="center"> 📺 Latest LP Teach YouTube Videos </h2>
+
 <!-- LP-TEACH-YOUTUBE:START -->
 <!-- LP-TEACH-YOUTUBE:END -->
 
 <h2 align="center"> 📺 Latest Arclapain YouTube Videos </h2>
+
 <!-- ARCLAPAIN-YOUTUBE:START -->
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
