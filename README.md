@@ -137,6 +137,8 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 - [Use VSCode on mobile](https://www.youtube.com/watch?v=UoYBTrff0g8)
 <!-- LP-TEACH-YOUTUBE:END -->
 
+➡️ <a href="https://www.youtube.com/c/lpteach">View More</a>
+
 <h2 align="center"> 📺 Latest Arclapain YouTube Videos </h2>
 
 <!-- ARCLAPAIN-YOUTUBE:START -->
@@ -146,6 +148,8 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 - [PUBG New State Station TDM | 16 kills](https://www.youtube.com/watch?v=Q-X-M-LtJtQ)
 - [When You Betray PUBG Mobile #Shorts](https://www.youtube.com/watch?v=c0ScZqN6IbM)
 <!-- ARCLAPAIN-YOUTUBE:END -->
+
+➡️ <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA">View More </a> 
 
 <h2 align="center"> 👌 GitHub Stats </h2>
 <p align="center">
