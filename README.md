@@ -86,9 +86,6 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <a href="https://www.arduino.cc/" target="_blank">
 <img alt="Arduino" width="50px" height="40px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/arduino-logo.png" />
 </a>
-<a href="https://www.npmjs.com/" target="_blank">
-<img alt="NPM" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/npm/npm-original-wordmark.svg" />
-</a>
 <a href="https://yarnpkg.com/" target="_blank">
 <img alt="Yarn" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/yarn/yarn-original.svg" />
 </a>
