@@ -127,11 +127,11 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <h2 align="center"> 📺 Latest LP Teach YouTube Videos </h2>
 
 <!-- LP-TEACH-YOUTUBE:START -->
+- [How to play games in termux | Termux-games&lpar;khansaad1275&rpar;](https://www.youtube.com/watch?v=4-FaBmjYnSA)
 - [How to Make Phone Recorded Audio Sound Better](https://www.youtube.com/watch?v=yjg2QOCkQbo)
 - [How to download movies on mobile #Shorts](https://www.youtube.com/watch?v=4srsO1e0Vck)
 - [How to play videos in termux](https://www.youtube.com/watch?v=H3dJkbifflQ)
 - [Greed Game in termux](https://www.youtube.com/watch?v=CPfYDHdnstM)
-- [Use VSCode on mobile](https://www.youtube.com/watch?v=UoYBTrff0g8)
 <!-- LP-TEACH-YOUTUBE:END -->
 
 ➡️ <a href="https://www.youtube.com/c/lpteach">View More</a>
