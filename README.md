@@ -139,11 +139,11 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <h2 align="center"> 📺 Latest Arclapain YouTube Videos </h2>
 
 <!-- ARCLAPAIN-YOUTUBE:START -->
+- [Need For Speed The Run Episode 01 | Need For Speed Season 01 &lpar;The Run&rpar;](https://www.youtube.com/watch?v=EZWhH8rCaXs)
 - [New Record | PUBG New State Solo Bronze to Gold](https://www.youtube.com/watch?v=nC-_r1nq78M)
 - [Dance Party in PUBG New State](https://www.youtube.com/watch?v=1ukGngIVFh0)
 - [#NewStateStyle Dance #shorts](https://www.youtube.com/watch?v=lhPtY65fzPM)
 - [Test Stream In Call Of Duty](https://www.youtube.com/watch?v=8ttXemmBdWU)
-- [PUBG New State Station TDM | 16 kills](https://www.youtube.com/watch?v=Q-X-M-LtJtQ)
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
 ➡️ <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA">View More </a> 
