@@ -56,7 +56,10 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <img alt="CSS3" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img alt="CSS3" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" />
+<img alt="JavaScript" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" />
+</a>
+<a href="https://www.programiz.com/cpp-programming">
+<img alt="c++" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 </a>
 </p>
 
