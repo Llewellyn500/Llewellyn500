@@ -128,11 +128,11 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <h2 align="center"> 📺 Latest LP Teach YouTube Videos </h2>
 
 <!-- LP-TEACH-YOUTUBE:START -->
-- [How to Download Anime - The Easy Way &lpar;2022&rpar;](https://www.youtube.com/watch?v=Rg-0-s9-CaE)
 - [How to download anime on mobile #shorts](https://www.youtube.com/watch?v=jXIVB3dJwUo)
 - [How to Use Photoshop on Mobile - Android/IOS](https://www.youtube.com/watch?v=UZa5ZArSveA)
 - [How to download anime from 9anime on mobile &lpar;2022 Update&rpar;](https://www.youtube.com/watch?v=QdN3aQ3l8MU)
 - [How to Access Chrome File Explorer on Mobile | Chrome Hidden Features](https://www.youtube.com/watch?v=-CgMTEpfEKs)
+- [How to play games in termux | Termux-games&lpar;khansaad1275&rpar;](https://www.youtube.com/watch?v=4-FaBmjYnSA)
 <!-- LP-TEACH-YOUTUBE:END -->
 
 ➡️ <a href="https://www.youtube.com/c/lpteach">View More</a>
