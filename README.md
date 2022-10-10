@@ -140,11 +140,11 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <h2 align="center"> 📺 Latest Arclapain YouTube Videos </h2>
 
 <!-- ARCLAPAIN-YOUTUBE:START -->
+- [Mafia Best Game Settings](https://www.youtube.com/watch?v=EHcjPbFZ1xU)
 - [Stray Gameplay Ending | No Commentary](https://www.youtube.com/watch?v=rpwyBVNeguM)
 - [Stray Gameplay Part 2 | No commentary](https://www.youtube.com/watch?v=gwcLY93bibE)
 - [Stray Gameplay Part 1 | No commentary](https://www.youtube.com/watch?v=NyvHilu2-Wk)
 - [Brawhalla Quick Game](https://www.youtube.com/watch?v=8YRuO7eq-1M)
-- [Need For Speed The Run Episode 02 | Need For Speed Season 01 &lpar;The Run&rpar;](https://www.youtube.com/watch?v=rH4U6SNh9Qo)
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
 ➡️ <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA">View More </a> 
