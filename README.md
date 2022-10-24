@@ -155,7 +155,6 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <h2 align="center"> 📺 Latest LP Teach YouTube Videos </h2>
 
 <!-- LP-TEACH-YOUTUBE:START -->
-
 - [Trailer](https://www.youtube.com/watch?v=4sqDPseWlFQ)
 <!-- LP-TEACH-YOUTUBE:END -->
 
