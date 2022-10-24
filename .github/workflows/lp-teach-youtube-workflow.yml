@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "LP-TEACH-YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCoPbnP8F1NCeIf_avTlNxAQ"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCcrvHbgE3u_eDfYm6iJKEvg"
