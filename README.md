@@ -150,6 +150,8 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 </a>
 </p>
 
+--- 
+
 <h2 align="center"> 📺 Latest LP Teach YouTube Videos </h2>
 
 <!-- LP-TEACH-YOUTUBE:START -->
