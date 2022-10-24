@@ -47,23 +47,23 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <h2>💬 Languages:</h2>
 <p>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-<img alt="HTML5" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" />
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-<img alt="CSS3" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" />
+<img alt="CSS3"src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img alt="JavaScript" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </a>
 <a href="https://www.programiz.com/cpp-programming">
-<img alt="c++" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
+<img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </a>
 </p>
 
-<h2>📚 Libraries:</h2>
+<h2>📚 Frameworks, Platforms and Libraries</h2>
 <p>
 <a href="https://reactjs.org/" target="_blank">
-<img alt="React.js" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original-wordmark.svg"/>
+<img alt="React.js" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </a>
 </p>
 
