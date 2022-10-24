@@ -39,7 +39,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <a href="https://bit.ly/Llewellyn-portfolio-v1" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-2196f3?style=for-the-badge&logo=opera&logoColor=fff"/></a>
 <a href="https://www.linkedin.com/in/llewellynpaintsil" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
 <a href="http://www.youtube.com/c/LPTeach" target="_blank"><img alt="LP Teach Youtube Channel" src="https://img.shields.io/badge/-LP Teach-FF0000?style=for-the-badge&logo=youtube&logoColor=fff"/></a>
-<a href="https://www.instagram.com/llewellynpaintsil/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff"/></a>
+<a href="https://www.instagram.com/llewellynpaint/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff"/></a>
 <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA" target="_blank"><img alt="Arclapain Youtube Channel" src="https://img.shields.io/badge/-Arclapain-FF0000?style=for-the-badge&logo=youtube&logoColor=fff"/></a>
 <a href="https://twitter.com/LlewellynAdont1?s=09" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff"/></a>
 </p>
