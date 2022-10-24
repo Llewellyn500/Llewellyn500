@@ -44,6 +44,8 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <a href="https://twitter.com/LlewellynAdont1?s=09" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff"/></a>
 </p>
 
+--- 
+
 <h2>💬 Languages:</h2>
 <p>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
@@ -58,6 +60,9 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <a href="https://www.programiz.com/cpp-programming">
 <img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </a>
+<a href="https://www.gnu.org/software/bash/">
+<img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</a>
 </p>
 
 <h2>📚 Frameworks, Platforms and Libraries</h2>
@@ -65,66 +70,90 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <a href="https://reactjs.org/" target="_blank">
 <img alt="React.js" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </a>
-</p>
-
-<h2>🛠 Tools:</h2>
-<p>
 <a href="https://nodejs.org/" target="_blank">
-<img alt="Node.js" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nodejs/nodejs-original.svg" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-<img alt="Git" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg" />
-</a>
-<a href="https://github.com/" target="_blank">
-<img alt="GitHub" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" />
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-<img alt="Bash" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bash/bash-original.svg" />
-</a>
-<a href="https://www.arduino.cc/" target="_blank">
-<img alt="Arduino" width="50px" height="40px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/arduino-logo.png" />
+<img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </a>
 <a href="https://yarnpkg.com/" target="_blank">
-<img alt="Yarn" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/yarn/yarn-original.svg" />
+<img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 </a>
-<a href="https://www.notion.so/" target="_blank">
-<img alt="notion" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
+</p>
+
+<h2>🕓 Version Control:</h2>
+<p>
+<a href="https://git-scm.com/" target="_blank">
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </a>
-<a href="https://acode.foxdebug.com/" target="_blank">
-<img alt="Acode" width="40px" height="40px" src="https://download.cnet.com/a/img/catalog/2020/04/22/6a7a554a-9c2c-4e76-93c4-ce7c5e5997b9/imgingest-8909915181455230082.png" />
+<a href="https://github.com/" target="_blank">
+<img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/cdr/code-server" target="_blank">
-<img alt="Code-Server" width="40px" height="40px" src="https://github.com/cdr/code-server/blob/main/src/browser/media/pwa-icon.png?raw=true" />
-</a>
+</p>
+
+<h2>💻 IDEs/Editors:</h2>
+<p>
 <a href="https://code.visualstudio.com/" target="_blank">
-<img alt="VS Code" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </a>
+<a href="https://www.jetbrains.com/clion/" target="_blank">
+<img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" />
+</a>
+</p>
+
+<h2>🎨 Design:</h2>
+<p>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-<img alt="Photoshop" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/photoshop/photoshop-plain.svg" />
+<img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
 </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank">
-<img alt="XD" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/xd/xd-plain.svg" />
+<a href="https://www.figma.com/" target="_blank">
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-<img alt="Illustrator" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/illustrator/illustrator-plain.svg" />
+<img alt="Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 </a>
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-<img alt="After Effects" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/aftereffects/aftereffects-original.svg" />
+<img alt="After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
 </a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank">
-<img alt="Premiere Pro" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/premierepro/premierepro-original.svg" />
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+<img alt="Premier pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 </a>
+</p>
+
+<h2>🎛️ Operating System:</h2>
+<p>
 <a href="https://www.android.com/" target="_blank">
-<img alt="Android" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/android/android-original.svg" />
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank">
-<img alt="Windows" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/windows8/windows8-original.svg" />
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+<a href="https://pop.system76.com/" target="_blank">
+<img alt="Pop!_OS" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
+</a>
+</p>
+
+<h2>🌐 Browsers:</h2>
+<p>
+<a href="https://brave.com/" target="_blank">
+<img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />
+</a>
+<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
+<img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+</a>
+<a href="https://www.google.com/chrome/" target="_blank">
+<img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
+</a>
+</p>
+
+<h2>🥅 Other:</h2>
+<p>
+<a href="https://www.notion.so/" target="_blank">
+<img alt="notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 </p>
 
 <h2 align="center"> 📺 Latest LP Teach YouTube Videos </h2>
 
 <!-- LP-TEACH-YOUTUBE:START -->
+
 - [Trailer](https://www.youtube.com/watch?v=4sqDPseWlFQ)
 <!-- LP-TEACH-YOUTUBE:END -->
 
@@ -133,6 +162,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <h2 align="center"> 📺 Latest Arclapain YouTube Videos </h2>
 
 <!-- ARCLAPAIN-YOUTUBE:START -->
+
 - [Age of Empires IV Gameplay Part 4 | No Commentary](https://www.youtube.com/watch?v=Hy_Rf0vGOr4)
 - [Age of Empires IV Gameplay Part 3 | No Commentary](https://www.youtube.com/watch?v=lqt1itc2m8g)
 - [Battlefield V Gameplay part 1 | No Commentary](https://www.youtube.com/watch?v=7tcoqCBE6S0)
@@ -140,7 +170,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 - [Age of Empires IV Gameplay Part 1 | No Commentary](https://www.youtube.com/watch?v=hodp4rza3Pk)
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
-➡️ <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA">View More </a> 
+➡️ <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA">View More </a>
 
 <h2 align="center"> 👌 GitHub Stats </h2>
 <p align="center">
