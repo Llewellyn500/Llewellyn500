@@ -163,11 +163,11 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <h2 align="center"> 📺 Latest Arclapain YouTube Videos </h2>
 
 <!-- ARCLAPAIN-YOUTUBE:START -->
+- [Horizon Zero Dawn Gameplay Part 1 | No Commentary](https://www.youtube.com/watch?v=mohQqbcgqP0)
 - [Battlefield V Gameplay part 2 | No Commentary](https://www.youtube.com/watch?v=GBC5B88LY3Q)
 - [Age of Empires IV Gameplay Part 4 | No Commentary](https://www.youtube.com/watch?v=Hy_Rf0vGOr4)
 - [Age of Empires IV Gameplay Part 3 | No Commentary](https://www.youtube.com/watch?v=lqt1itc2m8g)
 - [Battlefield V Gameplay part 1 | No Commentary](https://www.youtube.com/watch?v=7tcoqCBE6S0)
-- [Age of Empires IV Gameplay Part 2 | No Commentary](https://www.youtube.com/watch?v=hjW62cgu0Eo)
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
 ➡️ <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA">View More </a>
