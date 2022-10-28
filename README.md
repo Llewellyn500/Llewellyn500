@@ -150,17 +150,17 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 </a>
 </p>
 
---- 
+<br />
 
-<h2 align="center"> 📺 Latest LP Teach YouTube Videos </h2>
+<h2 align="center"> 📺 Latest LP Teach YouTube Videos  <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" Width="90px"/></a></h2>
 
 <!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4sqDPseWlFQ"><img width="140px" src="https://i.ytimg.com/vi/4sqDPseWlFQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4sqDPseWlFQ">Trailer</a><br/>24 Oct, 2022</td></tr></table>
 <!-- LP-TEACH-YOUTUBE:END -->
 
-<a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a>
+<a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
-<h2 align="center"> 📺 Latest Arclapain YouTube Videos </h2>
+<h2 align="center"> 📺 Latest Arclapain YouTube Videos  <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
 
 <!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-cN-CX9d8e4"><img width="140px" src="https://i.ytimg.com/vi/-cN-CX9d8e4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-cN-CX9d8e4">Cyberpunk 2077 Map Glitch Fix</a><br/>28 Oct, 2022</td></tr></table>
@@ -174,7 +174,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <td><a href="https://www.youtube.com/watch?v=Hy_Rf0vGOr4">Age of Empires IV Gameplay Part 4 | No Commentary</a><br/>24 Oct, 2022</td></tr></table>
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
-<a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a>
+<a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 <h2 align="center"> 👌 GitHub Stats </h2>
 <p align="center">
