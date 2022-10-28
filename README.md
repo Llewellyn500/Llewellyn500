@@ -78,16 +78,6 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 </a>
 </p>
 
-<h2>🕓 Version Control:</h2>
-<p>
-<a href="https://git-scm.com/" target="_blank">
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-<a href="https://github.com/" target="_blank">
-<img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
 <h2>💻 IDEs/Editors:</h2>
 <p>
 <a href="https://code.visualstudio.com/" target="_blank">
@@ -95,25 +85,6 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 </a>
 <a href="https://www.jetbrains.com/clion/" target="_blank">
 <img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" />
-</a>
-</p>
-
-<h2>🎨 Design:</h2>
-<p>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-<img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-</a>
-<a href="https://www.figma.com/" target="_blank">
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-<img alt="Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-</a>
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-<img alt="After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
-</a>
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-<img alt="Premier pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 </a>
 </p>
 
@@ -127,26 +98,6 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 </a>
 <a href="https://pop.system76.com/" target="_blank">
 <img alt="Pop!_OS" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
-</a>
-</p>
-
-<h2>🌐 Browsers:</h2>
-<p>
-<a href="https://brave.com/" target="_blank">
-<img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />
-</a>
-<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
-<img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
-</a>
-<a href="https://www.google.com/chrome/" target="_blank">
-<img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
-</a>
-</p>
-
-<h2>🥅 Other:</h2>
-<p>
-<a href="https://www.notion.so/" target="_blank">
-<img alt="notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 </p>
 
