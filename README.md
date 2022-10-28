@@ -158,7 +158,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <td><a href="https://www.youtube.com/watch?v=4sqDPseWlFQ">Trailer</a><br/>24 Oct, 2022</td></tr></table>
 <!-- LP-TEACH-YOUTUBE:END -->
 
-➡️ <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg">View More</a>
+<a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a>
 
 <h2 align="center"> 📺 Latest Arclapain YouTube Videos </h2>
 
@@ -174,7 +174,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <td><a href="https://www.youtube.com/watch?v=Hy_Rf0vGOr4">Age of Empires IV Gameplay Part 4 | No Commentary</a><br/>24 Oct, 2022</td></tr></table>
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
-➡️ <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA">View More </a>
+<a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a>
 
 <h2 align="center"> 👌 GitHub Stats </h2>
 <p align="center">
