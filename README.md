@@ -46,60 +46,16 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 --- 
 
-<h2>💬 Languages:</h2>
-<p>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-<img alt="CSS3"src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</a>
-<a href="https://www.programiz.com/cpp-programming">
-<img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</a>
-<a href="https://www.gnu.org/software/bash/">
-<img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</a>
+<h2 align="center"> 👨‍💻 Languages and Tools:</h2>
+<br />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,md,react,nodejs,vscode,visualstudio,github,git,linux,figma,ae,ai,ps,,&perline=5" />
+  </a>
 </p>
 
-<h2>📚 Frameworks, Platforms and Libraries</h2>
-<p>
-<a href="https://reactjs.org/" target="_blank">
-<img alt="React.js" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-</a>
-<a href="https://nodejs.org/" target="_blank">
-<img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-</a>
-<a href="https://yarnpkg.com/" target="_blank">
-<img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-</a>
-</p>
-
-<h2>💻 IDEs/Editors:</h2>
-<p>
-<a href="https://code.visualstudio.com/" target="_blank">
-<img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</a>
-<a href="https://www.jetbrains.com/clion/" target="_blank">
-<img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" />
-</a>
-</p>
-
-<h2>🎛️ Operating System:</h2>
-<p>
-<a href="https://www.android.com/" target="_blank">
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</a>
-<a href="https://www.microsoft.com/en-us/windows" target="_blank">
-<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</a>
-<a href="https://pop.system76.com/" target="_blank">
-<img alt="Pop!_OS" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
-</a>
-</p>
+---
 
 <br />
 
