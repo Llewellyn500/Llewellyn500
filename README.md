@@ -162,12 +162,16 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <h2 align="center"> 📺 Latest Arclapain YouTube Videos </h2>
 
-<!-- ARCLAPAIN-YOUTUBE:START -->
-- [Cyberpunk 2077 Map Glitch Fix](https://www.youtube.com/watch?v=-cN-CX9d8e4)
-- [Cyberpunk 2077 Gameplay Part 1 | No Commentary](https://www.youtube.com/watch?v=LxZJHVceJ_M)
-- [Horizon Zero Dawn Gameplay Part 1 | No Commentary](https://www.youtube.com/watch?v=mohQqbcgqP0)
-- [Battlefield V Gameplay part 2 | No Commentary](https://www.youtube.com/watch?v=GBC5B88LY3Q)
-- [Age of Empires IV Gameplay Part 4 | No Commentary](https://www.youtube.com/watch?v=Hy_Rf0vGOr4)
+<!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-cN-CX9d8e4"><img width="140px" src="https://i.ytimg.com/vi/-cN-CX9d8e4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-cN-CX9d8e4">Cyberpunk 2077 Map Glitch Fix</a><br/>28 Oct, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=LxZJHVceJ_M"><img width="140px" src="https://i.ytimg.com/vi/LxZJHVceJ_M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LxZJHVceJ_M">Cyberpunk 2077 Gameplay Part 1 | No Commentary</a><br/>27 Oct, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mohQqbcgqP0"><img width="140px" src="https://i.ytimg.com/vi/mohQqbcgqP0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mohQqbcgqP0">Horizon Zero Dawn Gameplay Part 1 | No Commentary</a><br/>26 Oct, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GBC5B88LY3Q"><img width="140px" src="https://i.ytimg.com/vi/GBC5B88LY3Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GBC5B88LY3Q">Battlefield V Gameplay part 2 | No Commentary</a><br/>25 Oct, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Hy_Rf0vGOr4"><img width="140px" src="https://i.ytimg.com/vi/Hy_Rf0vGOr4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Hy_Rf0vGOr4">Age of Empires IV Gameplay Part 4 | No Commentary</a><br/>24 Oct, 2022</td></tr></table>
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
 ➡️ <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA">View More </a>
