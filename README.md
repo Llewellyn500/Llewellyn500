@@ -71,7 +71,9 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <h2 align="center"> 📺 Latest Arclapain YouTube Videos  <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
 
-<!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=m1ZOs9-VkN8"><img width="140px" src="https://i.ytimg.com/vi/m1ZOs9-VkN8/mqdefault.jpg"></a></td>
+<!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_C97v3tlFiM"><img width="140px" src="https://i.ytimg.com/vi/_C97v3tlFiM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_C97v3tlFiM">Cyberpunk 2077 After Graphics Driver Update | Map Glitch</a><br/>1 Nov, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=m1ZOs9-VkN8"><img width="140px" src="https://i.ytimg.com/vi/m1ZOs9-VkN8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=m1ZOs9-VkN8">Horizon Zero Dawn Gameplay Part 3 | No Commentary</a><br/>31 Oct, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=W3Mjgtrx9Yk"><img width="140px" src="https://i.ytimg.com/vi/W3Mjgtrx9Yk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=W3Mjgtrx9Yk">Horizon Zero Dawn Gameplay Part 2 | No Commentary</a><br/>29 Oct, 2022</td></tr></table>
@@ -79,8 +81,6 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <td><a href="https://www.youtube.com/watch?v=-cN-CX9d8e4">Cyberpunk 2077 Map Glitch Fix</a><br/>28 Oct, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LxZJHVceJ_M"><img width="140px" src="https://i.ytimg.com/vi/LxZJHVceJ_M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LxZJHVceJ_M">Cyberpunk 2077 Gameplay Part 1 | No Commentary</a><br/>27 Oct, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mohQqbcgqP0"><img width="140px" src="https://i.ytimg.com/vi/mohQqbcgqP0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mohQqbcgqP0">Horizon Zero Dawn Gameplay Part 1 | No Commentary</a><br/>26 Oct, 2022</td></tr></table>
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
 <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
