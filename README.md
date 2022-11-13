@@ -19,17 +19,17 @@ Hi there <img  height="40px" src="https://camo.githubusercontent.com/c5763e7c322
 
 <!-- Body -->
 <p>
-I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creator. I have two youtube channels <a href="http://www.youtube.com/c/LPTeach" target="_blank">LP Teach</a> & <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA" target="_blank">Arclapain</a>. I'm from Ghana and started coding with only my phone in the year 2020 during the Covid pandemic. It wasn't easy using only a phone to write code and learn, but with God's help I was able to go through that tough time. I had great interest in computers long before the Corona pandemic but I didn't want to distract myself from my school work too much so I suppressed those interests to make sure I pass.
+I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creator. I have two youtube channels <a href="http://www.youtube.com/@lp-teach" target="_blank">LP Teach</a> & <a href="https://www.youtube.com/@arclapain" target="_blank">Arclapain</a>. I'm from Ghana and started coding with only my phone in the year 2020 during the Covid pandemic. It wasn't easy using only a phone to write code and learn, but with God's help I was able to go through that tough time. I had great interest in computers long before the Corona pandemic but I didn't want to distract myself from my school work too much so I suppressed those interests to make sure I pass.
 </p>
 </div>
 
 <p>
 <ul>
-<li>📚 I’m currently learning to pass my examinations to get into a good university!</li>
+<li>📚 Studying Computer science at KNUST</li>
 <li>🌱 I'm aiming to become a great Developer 👨‍💻 and Digital Creator 🎥.</li>
 <li>👯 I’m looking to collaborate with other content creators.</li>
 <li>🥅 2020 and beyond Goals: Become a Full stack web developer and Contribute more to Open Source projects and my country.</li>
-<li>⚡ Fun fact about me: I love to draw, watch anime, play video games but above all of them, I love to code.</li>
+<li>⚡ Fun fact about me: I love to draw, watch anime, play video games but above all of them, I love to bring ideas to life.</li>
 </ul>
 </p>
 
