@@ -75,7 +75,9 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <h2 align="center"> 📺 Latest Arclapain YouTube Videos  <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
 
-<!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ne7lGPtMgmM"><img width="140px" src="https://i.ytimg.com/vi/ne7lGPtMgmM/mqdefault.jpg"></a></td>
+<!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wn86qdAS_O8"><img width="140px" src="https://i.ytimg.com/vi/wn86qdAS_O8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wn86qdAS_O8">Genshin Impact Test Stream 1</a><br/>18 Nov, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ne7lGPtMgmM"><img width="140px" src="https://i.ytimg.com/vi/ne7lGPtMgmM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ne7lGPtMgmM">The Odyssey of the Mammoth | Full Gameplay</a><br/>14 Nov, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qsRrrS1gnco"><img width="140px" src="https://i.ytimg.com/vi/qsRrrS1gnco/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qsRrrS1gnco">Cyberpunk 2077 Gameplay Part 3 | Hacker Gameplay</a><br/>12 Nov, 2022</td></tr></table>
@@ -83,8 +85,6 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <td><a href="https://www.youtube.com/watch?v=PRLQ-2EopKE">My 1st Kill in PUBG</a><br/>10 Nov, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=X1rSJCSa068"><img width="140px" src="https://i.ytimg.com/vi/X1rSJCSa068/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=X1rSJCSa068">Cyberpunk 2077 Gameplay Part 2 | No Commentary</a><br/>2 Nov, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tvl8xONcRyI"><img width="140px" src="https://i.ytimg.com/vi/tvl8xONcRyI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tvl8xONcRyI">Age of Empires Definitive  Edition vs Original</a><br/>2 Nov, 2022</td></tr></table>
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
 <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
