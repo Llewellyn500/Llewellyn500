@@ -61,7 +61,9 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <h2 align="center"> 📺 Latest LP Teach YouTube Videos  <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" Width="90px"/></a></h2>
 
-<!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Fc45rWWo0MU"><img width="140px" src="https://i.ytimg.com/vi/Fc45rWWo0MU/mqdefault.jpg"></a></td>
+<!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_k7Sp4dB0EY"><img width="140px" src="https://i.ytimg.com/vi/_k7Sp4dB0EY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_k7Sp4dB0EY">Useful Apps You Need to Get Part 1</a><br/>22 Nov, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Fc45rWWo0MU"><img width="140px" src="https://i.ytimg.com/vi/Fc45rWWo0MU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Fc45rWWo0MU">Legendary Dark - My VS code theme</a><br/>22 Nov, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZMXoUaVaXNg"><img width="140px" src="https://i.ytimg.com/vi/ZMXoUaVaXNg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZMXoUaVaXNg">How to Set Up Pop OS Bootloader &lpar;systemd-boot&rpar; | Pop OS 22.04 LTS</a><br/>18 Nov, 2022</td></tr></table>
@@ -69,8 +71,6 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <td><a href="https://www.youtube.com/watch?v=CNU-uf_yT28">How To Watch and Download Anime - The Complete Guide</a><br/>9 Nov, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CdOEJFwLL14"><img width="140px" src="https://i.ytimg.com/vi/CdOEJFwLL14/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CdOEJFwLL14">What Happened to LP Teach?</a><br/>29 Oct, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4sqDPseWlFQ"><img width="140px" src="https://i.ytimg.com/vi/4sqDPseWlFQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4sqDPseWlFQ">Trailer</a><br/>24 Oct, 2022</td></tr></table>
 <!-- LP-TEACH-YOUTUBE:END -->
 
 <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
