@@ -61,7 +61,9 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <h2 align="center"> 📺 Latest LP Teach YouTube Videos  <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" Width="90px"/></a></h2>
 
-<!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SKi3OXryacM"><img width="140px" src="https://i.ytimg.com/vi/SKi3OXryacM/mqdefault.jpg"></a></td>
+<!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ynE1SrNHp6k"><img width="140px" src="https://i.ytimg.com/vi/ynE1SrNHp6k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ynE1SrNHp6k">Useful Apps You Need To Try Part 4 #shorts</a><br/>12 Dec, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SKi3OXryacM"><img width="140px" src="https://i.ytimg.com/vi/SKi3OXryacM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SKi3OXryacM">Useful Apps You Need To Try Part 3 #shorts</a><br/>9 Dec, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tcaHSzdYCjM"><img width="140px" src="https://i.ytimg.com/vi/tcaHSzdYCjM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tcaHSzdYCjM">Useless Apps Part 1 #shorts</a><br/>7 Dec, 2022</td></tr></table>
@@ -69,8 +71,6 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <td><a href="https://www.youtube.com/watch?v=cPLtb-_Nby8">Turning Anime Scenes Into AI Art Part 2 #shorts</a><br/>3 Dec, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HdHyRwgBOZQ"><img width="140px" src="https://i.ytimg.com/vi/HdHyRwgBOZQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HdHyRwgBOZQ">Useful Apps You Need To Try Part 2 #shorts</a><br/>2 Dec, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=inuPC6RTswQ"><img width="140px" src="https://i.ytimg.com/vi/inuPC6RTswQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=inuPC6RTswQ">Turning Anime Scenes Into AI Art Part 1 #shorts</a><br/>28 Nov, 2022</td></tr></table>
 <!-- LP-TEACH-YOUTUBE:END -->
 
 <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
