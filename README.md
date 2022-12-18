@@ -19,7 +19,7 @@ Hi there <img  height="40px" src="https://camo.githubusercontent.com/c5763e7c322
 
 <!-- Body -->
 <p>
-I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creator. I have two youtube channels <a href="http://www.youtube.com/@lp-teach" target="_blank">LP Teach</a> & <a href="https://www.youtube.com/@arclapain" target="_blank">Arclapain</a>. I'm from Ghana and started coding with only my phone in the year 2020 during the Covid pandemic. It wasn't easy using only a phone to write code and learn, but with God's help I was able to go through that tough time. I had great interest in computers long before the Corona pandemic but I didn't want to distract myself from my school work too much so I suppressed those interests to make sure I pass.
+I'm a Student, Graphic Designer, Developer, and Youtube content creator. I have two youtube channels <a href="https://www.youtube.com/@lap-tutorials" target="_blank">LAP</a> & <a href="https://www.youtube.com/@arclapain" target="_blank">Arclapain</a>. I'm from Ghana and started coding with only my phone in the year 2020 during the Covid pandemic. It wasn't easy using only a phone to write code and learn, but with God's help I was able to go through that tough time. I had great interest in computers long before the Corona pandemic but I didn't want to distract myself from my school work too much so I suppressed those interests to make sure I pass.
 </p>
 </div>
 
@@ -38,7 +38,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <p>
 <a href="https://bit.ly/Llewellyn-portfolio-v1" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-2196f3?style=for-the-badge&logo=opera&logoColor=fff"/></a>
 <a href="https://www.linkedin.com/in/llewellynpaintsil" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
-<a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg" target="_blank"><img alt="LP Teach Youtube Channel" src="https://img.shields.io/badge/-LP Teach-FF0000?style=for-the-badge&logo=youtube&logoColor=fff"/></a>
+<a href="https://www.youtube.com/@lap-tutorials" target="_blank"><img alt="LAP Youtube Channel" src="https://img.shields.io/badge/-LAP-FF0000?style=for-the-badge&logo=youtube&logoColor=fff"/></a>
 <a href="https://www.instagram.com/llewellynpaint/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff"/></a>
 <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA" target="_blank"><img alt="Arclapain Youtube Channel" src="https://img.shields.io/badge/-Arclapain-FF0000?style=for-the-badge&logo=youtube&logoColor=fff"/></a>
 <a href="https://twitter.com/LlewellynAdont1?s=09" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff"/></a>
@@ -59,7 +59,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 
 <br />
 
-<h2 align="center"> 📺 Latest LP Teach YouTube Videos  <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" Width="90px"/></a></h2>
+<h2 align="center"> 📺 Latest LAP YouTube Videos  <a href="https://www.youtube.com/@lap-tutorials"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" Width="90px"/></a></h2>
 
 <!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ynE1SrNHp6k"><img width="140px" src="https://i.ytimg.com/vi/ynE1SrNHp6k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ynE1SrNHp6k">Useful Apps You Need To Try Part 4 #shorts</a><br/>12 Dec, 2022</td></tr></table>
@@ -73,7 +73,7 @@ I'm a Christian, Student, Graphic Designer, Developer, and Youtube content creat
 <td><a href="https://www.youtube.com/watch?v=HdHyRwgBOZQ">Useful Apps You Need To Try Part 2 #shorts</a><br/>2 Dec, 2022</td></tr></table>
 <!-- LP-TEACH-YOUTUBE:END -->
 
-<a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@lap-tutorials"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 <h2 align="center"> 📺 Latest Arclapain YouTube Videos  <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
 
