@@ -77,7 +77,9 @@ I'm a Student, Graphic Designer, Developer, and Youtube content creator. I have 
 
 <h2 align="center"> 📺 Latest Arclapain YouTube Videos  <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
 
-<!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wn86qdAS_O8"><img width="140px" src="https://i.ytimg.com/vi/wn86qdAS_O8/mqdefault.jpg"></a></td>
+<!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HS4RosAF-98"><img width="140px" src="https://i.ytimg.com/vi/HS4RosAF-98/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HS4RosAF-98">Playing Saints Row IV Re-Elected</a><br/>18 Dec, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wn86qdAS_O8"><img width="140px" src="https://i.ytimg.com/vi/wn86qdAS_O8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wn86qdAS_O8">Genshin Impact Test Stream 1</a><br/>18 Nov, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ne7lGPtMgmM"><img width="140px" src="https://i.ytimg.com/vi/ne7lGPtMgmM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ne7lGPtMgmM">The Odyssey of the Mammoth | Full Gameplay</a><br/>14 Nov, 2022</td></tr></table>
@@ -85,8 +87,6 @@ I'm a Student, Graphic Designer, Developer, and Youtube content creator. I have 
 <td><a href="https://www.youtube.com/watch?v=qsRrrS1gnco">Cyberpunk 2077 Gameplay Part 3 | Hacker Gameplay</a><br/>12 Nov, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=PRLQ-2EopKE"><img width="140px" src="https://i.ytimg.com/vi/PRLQ-2EopKE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PRLQ-2EopKE">My 1st Kill in PUBG</a><br/>10 Nov, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=X1rSJCSa068"><img width="140px" src="https://i.ytimg.com/vi/X1rSJCSa068/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=X1rSJCSa068">Cyberpunk 2077 Gameplay Part 2 | No Commentary</a><br/>2 Nov, 2022</td></tr></table>
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
 <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
