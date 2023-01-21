@@ -61,7 +61,9 @@ I'm a Student, Graphic Designer, Developer, and Youtube content creator. I have 
 
 <h2 align="center"> 📺 Latest LAP YouTube Videos  <a href="https://www.youtube.com/@lap-tutorials"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" Width="90px"/></a></h2>
 
-<!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ONFb340VjL8"><img width="140px" src="https://i.ytimg.com/vi/ONFb340VjL8/mqdefault.jpg"></a></td>
+<!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=G1OQbTcYWm4"><img width="140px" src="https://i.ytimg.com/vi/G1OQbTcYWm4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=G1OQbTcYWm4">A Word For Art Part 02</a><br/>20 Jan, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ONFb340VjL8"><img width="140px" src="https://i.ytimg.com/vi/ONFb340VjL8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ONFb340VjL8">A Word For Art Part 1</a><br/>18 Jan, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HSSuKE368Hk"><img width="140px" src="https://i.ytimg.com/vi/HSSuKE368Hk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HSSuKE368Hk">Things You Didn&#39;t Know Part 1</a><br/>16 Jan, 2023</td></tr></table>
@@ -69,8 +71,6 @@ I'm a Student, Graphic Designer, Developer, and Youtube content creator. I have 
 <td><a href="https://www.youtube.com/watch?v=UirdmZvsc5E">Turning Anime Scenes Into AI Art Part 3 #shorts</a><br/>13 Jan, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wjXf_d4W5tE"><img width="140px" src="https://i.ytimg.com/vi/wjXf_d4W5tE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wjXf_d4W5tE">Changes for 2023</a><br/>12 Jan, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ynE1SrNHp6k"><img width="140px" src="https://i.ytimg.com/vi/ynE1SrNHp6k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ynE1SrNHp6k">Useful Apps You Need To Try Part 4 #shorts</a><br/>12 Dec, 2022</td></tr></table>
 <!-- LP-TEACH-YOUTUBE:END -->
 
 <a href="https://www.youtube.com/@lap-tutorials"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
