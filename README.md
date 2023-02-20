@@ -61,7 +61,9 @@ I'm a Student, Graphic Designer, Developer, and Youtube content creator. I have 
 
 <h2 align="center"> 📺 Latest LAP YouTube Videos  <a href="https://www.youtube.com/@lap-tutorials"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" Width="90px"/></a></h2>
 
-<!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8-_RD325V2A"><img width="140px" src="https://i.ytimg.com/vi/8-_RD325V2A/mqdefault.jpg"></a></td>
+<!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9QwHG2Tvwfs"><img width="140px" src="https://i.ytimg.com/vi/9QwHG2Tvwfs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9QwHG2Tvwfs">A Word for Art Part 4 &lpar;Ant-man and the Wasp Quantumania&rpar;</a><br/>19 Feb, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=8-_RD325V2A"><img width="140px" src="https://i.ytimg.com/vi/8-_RD325V2A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8-_RD325V2A">A Word for Art Part 03 &lpar;Word&rpar;</a><br/>8 Feb, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=G1OQbTcYWm4"><img width="140px" src="https://i.ytimg.com/vi/G1OQbTcYWm4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=G1OQbTcYWm4">A Word For Art Part 02</a><br/>20 Jan, 2023</td></tr></table>
@@ -69,8 +71,6 @@ I'm a Student, Graphic Designer, Developer, and Youtube content creator. I have 
 <td><a href="https://www.youtube.com/watch?v=ONFb340VjL8">A Word For Art Part 1</a><br/>18 Jan, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HSSuKE368Hk"><img width="140px" src="https://i.ytimg.com/vi/HSSuKE368Hk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HSSuKE368Hk">Things You Didn&#39;t Know Part 1</a><br/>16 Jan, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UirdmZvsc5E"><img width="140px" src="https://i.ytimg.com/vi/UirdmZvsc5E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UirdmZvsc5E">Turning Anime Scenes Into AI Art Part 3 #shorts</a><br/>13 Jan, 2023</td></tr></table>
 <!-- LP-TEACH-YOUTUBE:END -->
 
 <a href="https://www.youtube.com/@lap-tutorials"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
