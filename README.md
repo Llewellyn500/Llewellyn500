@@ -77,7 +77,9 @@ I'm a Student, Graphic Designer, Developer, and Youtube content creator. I have 
 
 <h2 align="center"> 📺 Latest Arclapain YouTube Videos  <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
 
-<!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WUqTzcEIkrQ"><img width="140px" src="https://i.ytimg.com/vi/WUqTzcEIkrQ/mqdefault.jpg"></a></td>
+<!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9r7MaT2N2ZQ"><img width="140px" src="https://i.ytimg.com/vi/9r7MaT2N2ZQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9r7MaT2N2ZQ">Honkai Star Rail Walkthrough Gameplay Part 01</a><br/>16 May, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WUqTzcEIkrQ"><img width="140px" src="https://i.ytimg.com/vi/WUqTzcEIkrQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WUqTzcEIkrQ">Zuma Deluxe Walkthrough Gameplay Part 01</a><br/>10 May, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ttbN0_WfniA"><img width="140px" src="https://i.ytimg.com/vi/ttbN0_WfniA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ttbN0_WfniA">The Witcher Enhanced Edition Walkthrough Gameplay Part 1 - Intro</a><br/>2 May, 2023</td></tr></table>
@@ -85,8 +87,6 @@ I'm a Student, Graphic Designer, Developer, and Youtube content creator. I have 
 <td><a href="https://www.youtube.com/watch?v=HS4RosAF-98">Playing Saints Row IV Re-Elected</a><br/>18 Dec, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wn86qdAS_O8"><img width="140px" src="https://i.ytimg.com/vi/wn86qdAS_O8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wn86qdAS_O8">Genshin Impact Test Stream 1</a><br/>18 Nov, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ne7lGPtMgmM"><img width="140px" src="https://i.ytimg.com/vi/ne7lGPtMgmM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ne7lGPtMgmM">The Odyssey of the Mammoth | Full Gameplay</a><br/>14 Nov, 2022</td></tr></table>
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
 <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
