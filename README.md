@@ -8,8 +8,8 @@
 <!-- Intro badges -->
 <p>
 <a href="https://bit.ly/Llewellyn-portfolio-v1" target="_blank">
-<img alt="My Portfolio" src="./images/badge/my-portfolio-down.png" align="center" width="20%"></a> <a href="https://github.com/Llewellyn500" target="_blank"><img alt="GitHub" src="./images/badge/my-github.png" align="center" width="20%"></a> <a href="https://twitter.com/LlewellynAdont1?s=09" target="_blank">
-<img alt="Twitter Followers" src="./images/badge/my-twitter.png" align="center" width="20%"></a> <a href=""><img src="./images/badge/my-instagram.png" width="20%" align="center"></a>
+<img alt="My Portfolio" src="./images/badge/my-portfolio-down.png" align="center" width="22%"></a> <a href="https://github.com/Llewellyn500" target="_blank"><img alt="GitHub" src="./images/badge/my-github.png" align="center" width="22%"></a> <a href="https://twitter.com/LlewellynAdont1?s=09" target="_blank">
+<img alt="Twitter Followers" src="./images/badge/my-twitter.png" align="center" width="22%"></a> <a href=""><img src="./images/badge/my-instagram.png" width="22%" align="center"></a>
 </p>
 
 <!-- Heading -->
