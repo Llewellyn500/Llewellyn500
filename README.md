@@ -49,7 +49,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <!-- SOCIAL MEDIA LINKS START -->
 <h2>📱 Connect with me:</h2>
 <p>
-<a href="https://bit.ly/Llewellyn-portfolio-v1" target="_blank">
+<a href="#" target="_blank">
 <img src="./images/icons/portfolio-[down].png" width="10%" alt="Llewellyn Portfolio Icon" title="Llewellyn's Portfolio" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Portfolio of Llewellyn Adonteng Paintsil"/></a>
 <a href="https://www.linkedin.com/in/llewellynpaintsil" target="_blank">
 <img src="./images/icons/linkedin.png" width="10%" alt="Llewellyn Linkedin Profile Icon" title="Llewellyn's Linkedin Profile" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Linkedin of Llewellyn Adonteng Paintsil"/></a>
@@ -66,7 +66,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 </p>
 <!-- SOCIAL MEDIA LINKS END -->
 
---- 
+<!-- --- 
 
 <h2 align="center"> 👨‍💻 Languages and Tools:</h2>
 <br />
@@ -77,11 +77,13 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
   </a>
 </p>
 
+--- -->
+
 ---
 
 <br />
 
-<h2 align="center"> 📺 Latest LAP YouTube Videos  <a href="https://www.youtube.com/@lap-tutorials"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" Width="90px"/></a></h2>
+<h2 align="center"> 📺 Latest LAP YouTube Videos </h2>
 
 <!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2LGBMbnf3Vk"><img width="140px" src="https://i.ytimg.com/vi/2LGBMbnf3Vk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2LGBMbnf3Vk">How to Download Anime on Your Phone</a><br/>17 May, 2023</td></tr></table>
@@ -97,7 +99,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 
 <a href="https://www.youtube.com/@lap-tutorials"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
-<h2 align="center"> 📺 Latest Arclapain YouTube Videos  <a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
+<h2 align="center"> 📺 Latest Arclapain YouTube Videos </h2>
 
 <!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AMrBwMHMadw"><img width="140px" src="https://i.ytimg.com/vi/AMrBwMHMadw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AMrBwMHMadw">Honkai Star Rail Walkthrough Gameplay Part 04</a><br/>25 May, 2023</td></tr></table>
