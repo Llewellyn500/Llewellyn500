@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="./images/banner.gif" alt="Llewellyn Paintsil Banner" title="Llewellyn Paintsil Banner" loading="eager" decoding="async" longdesc="I'm Llewellyn Adonteng Paintsil. A Christian, web developer, Content Creator, Gamer, Graphic Designer, and anime lover. This is just an improved version of my banner by the way. Hope to work with more people and improve my skills.">
+<img src="./images/banner/github-banner-v2.gif" alt="Llewellyn Paintsil Banner" title="Llewellyn Paintsil Banner" loading="eager" decoding="async" longdesc="I'm Llewellyn Adonteng Paintsil. A Christian, web developer, Content Creator, Gamer, Graphic Designer, and anime lover. This is just an improved version of my banner by the way. Hope to work with more people and improve my skills.">
 </p>
 
 <div align="center">
@@ -8,7 +8,7 @@
 <!-- Intro Cards -->
 <p>
 <a href="https://bit.ly/Llewellyn-portfolio-v1" target="_blank">
-<img alt="My Portfolio" src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Portfolio&logo=opera&logoColor=2196f3&style=for-the-badge&up_color=2196f3&up_message=UP&url=https%3A%2F%2Fllewellyn500.github.io/portfolio/"></a> <a href="https://github.com/Llewellyn500" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Llewellyn500?color=white&logo=github&style=for-the-badge"></a> <a href="https://twitter.com/LlewellynAdont1?s=09" target="_blank">
+<img alt="My Portfolio" src="./images/badge/my-portfolio-down.png" align="center"></a> <a href="https://github.com/Llewellyn500" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Llewellyn500?color=white&logo=github&style=for-the-badge"></a> <a href="https://twitter.com/LlewellynAdont1?s=09" target="_blank">
 <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/LlewellynAdont1?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge"></a> 
 </p>
 
