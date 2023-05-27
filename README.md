@@ -47,7 +47,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <!-- BODY END -->
 
 <!-- SOCIAL MEDIA LINKS START -->
-<h2><img src="./images/others/connect.gif" width="4%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/> Connect with me: <img src="./images/others/connect.gif" width="4%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/></h2>
+<h2><img src="./images/others/connect.gif" width="3%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/> Connect with me: <img src="./images/others/connect.gif" width="3%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/></h2>
 <p>
 <a href="#" target="_blank">
 <img src="./images/icons/portfolio-[down].png" width="10%" alt="Llewellyn Portfolio Icon" title="Llewellyn's Portfolio" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Portfolio of Llewellyn Adonteng Paintsil"/></a>
@@ -81,7 +81,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 
 ---
 
-<h2 align="center"><img src="./images/others/video.gif" width="4%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/> Latest LAP YouTube Videos <img src="./images/others/video.gif" width="4%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/></h2>
+<h2 align="center"><img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/> Latest LAP YouTube Videos <img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/></h2>
 
 <!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2LGBMbnf3Vk"><img width="140px" src="https://i.ytimg.com/vi/2LGBMbnf3Vk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2LGBMbnf3Vk">How to Download Anime on Your Phone</a><br/>17 May, 2023</td></tr></table>
@@ -95,9 +95,10 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <td><a href="https://www.youtube.com/watch?v=G1OQbTcYWm4">A Word For Art Part 02</a><br/>20 Jan, 2023</td></tr></table>
 <!-- LP-TEACH-YOUTUBE:END -->
 
-<a href="https://www.youtube.com/@lap-tutorials"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@lap-tutorials" align="center">
+<img src="./images/badge/subscribe.png" align="center" width="30%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
 
-<h2 align="center"><img src="./images/others/video.gif" width="4%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/> Latest Arclapain YouTube Videos <img src="./images/others/video.gif" width="4%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/></h2>
+<h2 align="center"><img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/> Latest Arclapain YouTube Videos <img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/></h2>
 
 <!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AMrBwMHMadw"><img width="140px" src="https://i.ytimg.com/vi/AMrBwMHMadw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AMrBwMHMadw">Honkai Star Rail Walkthrough Gameplay Part 04</a><br/>25 May, 2023</td></tr></table>
@@ -111,7 +112,8 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <td><a href="https://www.youtube.com/watch?v=WUqTzcEIkrQ">Zuma Deluxe Walkthrough Gameplay Part 01</a><br/>10 May, 2023</td></tr></table>
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
-<a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@arclapain" align="center">
+<img src="./images/badge/subscribe.png" align="center" width="30%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
 
 <h2 align="center"> 👌 GitHub Stats </h2>
 <p align="center">
