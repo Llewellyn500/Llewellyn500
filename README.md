@@ -61,6 +61,8 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <img src="./images/icons/arclapain.png" width="10%" alt="Arclapain YouTube Channel Icon" title="Arclapain YouTube Channel" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Channel of Arclapain"/></a>
 <a href="https://twitter.com/LlewellynAdont1" target="_blank">
 <img src="./images/icons/twitter.png" width="10%" alt="Llewellyn Twitter Icon" title="Llewellyn's Twitter Account" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Twitter of Llewellyn Adonteng Paintsil"/></a>
+<a href="https://www.patreon.com/LPTeach" target="_blank">
+<img src="./images/icons/patreon.png" width="10%" alt="Llewellyn Patreon Icon" title="Llewellyn's Patreon" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Patreon of Llewellyn Adonteng Paintsil"/></a>
 </p>
 <!-- SOCIAL MEDIA LINKS END -->
 
