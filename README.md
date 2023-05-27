@@ -7,9 +7,16 @@
 
 <!-- Intro badges -->
 <p>
-<a href="https://bit.ly/Llewellyn-portfolio-v1" target="_blank">
-<img alt="My Portfolio" src="./images/badge/my-portfolio-down.png" align="center" width="24%"></a> <a href="https://github.com/Llewellyn500" target="_blank"><img alt="GitHub" src="./images/badge/my-github.png" align="center" width="24%"></a> <a href="https://twitter.com/LlewellynAdont1?s=09" target="_blank">
-<img alt="Twitter Followers" src="./images/badge/my-twitter.png" align="center" width="24%"></a> <a href=""><img src="./images/badge/my-instagram.png" width="24%" align="center"></a>
+<!-- My portfolio -->
+<a href="#" target="_blank">
+<img src="./images/badge/my-portfolio-down.png" align="center" width="24%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil"></a> 
+<!-- My Github -->
+<a href="https://github.com/Llewellyn500" target="_blank"><img src="./images/badge/my-github.png" align="center" width="24%" alt="Llewellyn's Github Profile Badge" title="Llewellyn's Github Profile" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Github Profile of Llewellyn Adonteng Paintsil"></a>
+<!-- My Twitter -->
+<a href="https://twitter.com/LlewellynAdont1?s=09" target="_blank">
+<img src="./images/badge/my-twitter.png" align="center" width="24%" alt="Llewellyn's Twitter Badge" title="Llewellyn's Twitter" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Twitter account of Llewellyn Adonteng Paintsil"></a>
+<!-- My Instagram -->
+<a href="#"><img src="./images/badge/my-instagram.png" width="24%" align="center" alt="Llewellyn's Instagram Badge" title="Llewellyn's Instagram" loading="eager" decoding="async" longdesc="A custom made badge that leads to the instagram account of Llewellyn Adonteng Paintsil"></a>
 </p>
 
 <!-- Heading -->
