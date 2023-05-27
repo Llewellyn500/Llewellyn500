@@ -50,18 +50,19 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <h2>📱 Connect with me:</h2>
 <p>
 <a href="https://bit.ly/Llewellyn-portfolio-v1" target="_blank">
-<img src="./images/icons/portfolio-[down].png" width="15%" alt="Llewellyn Portfolio Icon" title="Llewellyn's Portfolio" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Portfolio of Llewellyn Adonteng Paintsil"/></a>
+<img src="./images/icons/portfolio-[down].png" width="10%" alt="Llewellyn Portfolio Icon" title="Llewellyn's Portfolio" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Portfolio of Llewellyn Adonteng Paintsil"/></a>
 <a href="https://www.linkedin.com/in/llewellynpaintsil" target="_blank">
-<img src="./images/icons/linkedin.png" width="15%" alt="Llewellyn Linkedin Profile Icon" title="Llewellyn's Linkedin Profile" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Linkedin of Llewellyn Adonteng Paintsil"/></a>
+<img src="./images/icons/linkedin.png" width="10%" alt="Llewellyn Linkedin Profile Icon" title="Llewellyn's Linkedin Profile" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Linkedin of Llewellyn Adonteng Paintsil"/></a>
 <a href="https://www.youtube.com/@lap-tutorials" target="_blank">
-<img src="./images/icons/lap.png" width="15%" alt="LAP Youtube Channel Icon" title="LAP YouTube Channel" loading="eager" decoding="async" longdesc="A custom made icon that leads to the LAP youtube Channel"/></a>
-<a href="https://www.instagram.com/llewellynpaint/" target="_blank">
-<img src="./images/icons/instagram.png" width="15%" alt="Llewellyn Instagram Icon" title="Llewellyn's Instagram" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Instagram account of Llewellyn Adonteng Paintsil"/></a>
-<a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA" target="_blank">
-<img src="./images/icons/arclapain.png" width="15%" alt="Arclapain YouTube Channel Icon" title="Arclapain YouTube Channel" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Channel of Arclapain"/></a>
+<img src="./images/icons/lap.png" width="10%" alt="LAP Youtube Channel Icon" title="LAP YouTube Channel" loading="eager" decoding="async" longdesc="A custom made icon that leads to the LAP youtube Channel"/></a>
+<a href="https://instagram.com/llewellynpaint?igshid=MzNINGNkZWQ4Mg==" target="_blank">
+<img src="./images/icons/instagram.png" width="10%" alt="Llewellyn Instagram Icon" title="Llewellyn's Instagram" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Instagram account of Llewellyn Adonteng Paintsil"/></a>
+<a href="https://www.youtube.com/@arclapain" target="_blank">
+<img src="./images/icons/arclapain.png" width="10%" alt="Arclapain YouTube Channel Icon" title="Arclapain YouTube Channel" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Channel of Arclapain"/></a>
 <a href="https://twitter.com/LlewellynAdont1" target="_blank">
-<img src="./images/icons/twitter.png" width="15%" alt="Llewellyn Twitter Icon" title="Llewellyn's Twitter Account" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Twitter of Llewellyn Adonteng Paintsil"/></a>
+<img src="./images/icons/twitter.png" width="10%" alt="Llewellyn Twitter Icon" title="Llewellyn's Twitter Account" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Twitter of Llewellyn Adonteng Paintsil"/></a>
 </p>
+<!-- SOCIAL MEDIA LINKS END -->
 
 --- 
 
