@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="./images/banner.gif">
+<img src="./images/banner.gif" alt="Llewellyn Paintsil Banner" title="Llewellyn Paintsil Banner" loading="eager" decoding="async" longdesc="I'm Llewellyn Adonteng Paintsil. A Christian, web developer, Content Creator, Gamer, Graphic Designer, and anime lover. This is just an improved version of my banner by the way. Hope to work with more people and improve my skills.">
 </p>
 
 <div align="center">
