@@ -11,12 +11,14 @@
 <a href="#" target="_blank">
 <img src="./images/badge/my-portfolio-down.png" align="center" width="24%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil"></a> 
 <!-- My Github -->
-<a href="https://github.com/Llewellyn500" target="_blank"><img src="./images/badge/my-github.png" align="center" width="24%" alt="Llewellyn's Github Profile Badge" title="Llewellyn's Github Profile" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Github Profile of Llewellyn Adonteng Paintsil"></a>
+<a href="https://github.com/Llewellyn500" target="_blank">
+<img src="./images/badge/my-github.png" align="center" width="24%" alt="Llewellyn's Github Profile Badge" title="Llewellyn's Github Profile" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Github Profile of Llewellyn Adonteng Paintsil"></a>
 <!-- My Twitter -->
 <a href="https://twitter.com/LlewellynAdont1" target="_blank">
 <img src="./images/badge/my-twitter.png" align="center" width="24%" alt="Llewellyn's Twitter Badge" title="Llewellyn's Twitter" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Twitter account of Llewellyn Adonteng Paintsil"></a>
 <!-- My Instagram -->
-<a href="#"><img src="./images/badge/my-instagram.png" width="24%" align="center" alt="Llewellyn's Instagram Badge" title="Llewellyn's Instagram" loading="eager" decoding="async" longdesc="A custom made badge that leads to the instagram account of Llewellyn Adonteng Paintsil"></a>
+<a href="#" target="_blank">
+<img src="./images/badge/my-instagram.png" width="24%" align="center" alt="Llewellyn's Instagram Badge" title="Llewellyn's Instagram" loading="eager" decoding="async" longdesc="A custom made badge that leads to the instagram account of Llewellyn Adonteng Paintsil"></a>
 </p>
 <!-- INTRO BADGES END -->
 
@@ -47,12 +49,18 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <!-- SOCIAL MEDIA LINKS START -->
 <h2>📱 Connect with me:</h2>
 <p>
-<a href="https://bit.ly/Llewellyn-portfolio-v1" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-2196f3?style=for-the-badge&logo=opera&logoColor=fff"/></a>
-<a href="https://www.linkedin.com/in/llewellynpaintsil" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
-<a href="https://www.youtube.com/@lap-tutorials" target="_blank"><img alt="LAP Youtube Channel" src="https://img.shields.io/badge/-LAP-FF0000?style=for-the-badge&logo=youtube&logoColor=fff"/></a>
-<a href="https://www.instagram.com/llewellynpaint/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff"/></a>
-<a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA" target="_blank"><img alt="Arclapain Youtube Channel" src="https://img.shields.io/badge/-Arclapain-FF0000?style=for-the-badge&logo=youtube&logoColor=fff"/></a>
-<a href="https://twitter.com/LlewellynAdont1?s=09" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff"/></a>
+<a href="https://bit.ly/Llewellyn-portfolio-v1" target="_blank">
+<img src="./images/icons/portfolio-[down].png" width="15%" alt="Llewellyn Portfolio Icon" title="Llewellyn's Portfolio" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Portfolio of Llewellyn Adonteng Paintsil"/></a>
+<a href="https://www.linkedin.com/in/llewellynpaintsil" target="_blank">
+<img src="./images/icons/linkedin.png" width="15%" alt="Llewellyn Linkedin Profile Icon" title="Llewellyn's Linkedin Profile" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Linkedin of Llewellyn Adonteng Paintsil"/></a>
+<a href="https://www.youtube.com/@lap-tutorials" target="_blank">
+<img src="./images/icons/lap.png" width="15%" alt="LAP Youtube Channel Icon" title="LAP YouTube Channel" loading="eager" decoding="async" longdesc="A custom made icon that leads to the LAP youtube Channel"/></a>
+<a href="https://www.instagram.com/llewellynpaint/" target="_blank">
+<img src="./images/icons/instagram.png" width="15%" alt="Llewellyn Instagram Icon" title="Llewellyn's Instagram" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Instagram account of Llewellyn Adonteng Paintsil"/></a>
+<a href="https://www.youtube.com/channel/UCcXLspJdUMq5E8-jU0CXuNA" target="_blank">
+<img src="./images/icons/arclapain.png" width="15%" alt="Arclapain YouTube Channel Icon" title="Arclapain YouTube Channel" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Channel of Arclapain"/></a>
+<a href="https://twitter.com/LlewellynAdont1" target="_blank">
+<img src="./images/icons/twitter.png" width="15%" alt="Llewellyn Twitter Icon" title="Llewellyn's Twitter Account" loading="eager" decoding="async" longdesc="A custom made icon that leads to the Twitter of Llewellyn Adonteng Paintsil"/></a>
 </p>
 
 --- 
