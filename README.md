@@ -8,7 +8,7 @@
 <!-- Intro Cards -->
 <p>
 <a href="https://bit.ly/Llewellyn-portfolio-v1" target="_blank">
-<img alt="My Portfolio" src="./images/badge/my-portfolio-down.png" align="center" width="50%"></a> <a href="https://github.com/Llewellyn500" target="_blank"><img alt="GitHub" src="./images/badge/my-github.png" align="center" width="50%"></a> <a href="https://twitter.com/LlewellynAdont1?s=09" target="_blank">
+<img alt="My Portfolio" src="./images/badge/my-portfolio-down.png" align="center" width="30%"></a> <a href="https://github.com/Llewellyn500" target="_blank"><img alt="GitHub" src="./images/badge/my-github.png" align="center" width="30%"></a> <a href="https://twitter.com/LlewellynAdont1?s=09" target="_blank">
 <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/LlewellynAdont1?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge"></a> 
 </p>
 
