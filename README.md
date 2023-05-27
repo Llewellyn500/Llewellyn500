@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<!-- Intro badges -->
+<!-- INTRO BADGES START -->
 <p>
 <!-- My portfolio -->
 <a href="#" target="_blank">
@@ -18,13 +18,16 @@
 <!-- My Instagram -->
 <a href="#"><img src="./images/badge/my-instagram.png" width="24%" align="center" alt="Llewellyn's Instagram Badge" title="Llewellyn's Instagram" loading="eager" decoding="async" longdesc="A custom made badge that leads to the instagram account of Llewellyn Adonteng Paintsil"></a>
 </p>
+<!-- INTRO BADGES END -->
 
-<!-- Heading -->
+<!-- HEADING START -->
 <h1> 
-Hi there <img  height="40px" src="https://camo.githubusercontent.com/c5763e7c322079fa5e6256670a7ba475d7d41b94afc2d033ef72a9b98a62ef80/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62363137633336663964623237366433313436653937346238666636346634632f74656e6f722e676966" />, I'm Llewellyn Adonteng Paintsil 
+<img src="./images/others/wave.gif" width="7%" alt="hand waving gif" title="waving hand" loading="eager" decoding="async" longdesc="A simple blue gif of a waving hand"/> Hi There! <img src="./images/others/wave.gif" width="7%" alt="hand waving gif" title="waving hand" loading="eager" decoding="async" longdesc="A simple blue gif of a waving hand"/>
+
+I'm Llewellyn Paintsil 
 </h1>
 
-<!-- Body -->
+<!-- BODY START -->
 <p>
 I'm a Student, Graphic Designer, Developer, and Youtube content creator. I have two youtube channels <a href="https://www.youtube.com/@lap-tutorials" target="_blank">LAP</a> & <a href="https://www.youtube.com/@arclapain" target="_blank">Arclapain</a>. I'm from Ghana and started coding with only my phone in the year 2020 during the Covid pandemic. It wasn't easy using only a phone to write code and learn, but with God's help I was able to go through that tough time. I had great interest in computers long before the Corona pandemic but I didn't want to distract myself from my school work too much so I suppressed those interests to make sure I pass.
 </p>
