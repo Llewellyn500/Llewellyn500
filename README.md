@@ -29,21 +29,22 @@ I'm Llewellyn Paintsil
 
 <!-- BODY START -->
 <p>
-I'm a Student, Graphic Designer, Developer, and Youtube content creator. I have two youtube channels <a href="https://www.youtube.com/@lap-tutorials" target="_blank">LAP</a> & <a href="https://www.youtube.com/@arclapain" target="_blank">Arclapain</a>. I'm from Ghana and started coding with only my phone in the year 2020 during the Covid pandemic. It wasn't easy using only a phone to write code and learn, but with God's help I was able to go through that tough time. I had great interest in computers long before the Corona pandemic but I didn't want to distract myself from my school work too much so I suppressed those interests to make sure I pass.
+I am a tormented being, a Student, Graphic Designer, Developer, and YouTube content creator from Ghana. Amidst the shadows of the Covid pandemic in 2020, I began coding with only my phone, a cruel tool of limitation. With divine intervention, I endured, suppressed my love for computers to pass the trials of academia. Explore my GitHub profile, where darkness and creativity intertwine, and witness the remnants of shattered dreams. Enter this abyss, if you dare, and embrace the void that awaits.
 </p>
 </div>
 
 <p>
 <ul>
-<li>📚 Studying Computer science at KNUST</li>
-<li>🌱 I'm aiming to become a great Developer 👨‍💻 and Digital Creator 🎥.</li>
-<li>👯 I’m looking to collaborate with other content creators.</li>
-<li>🥅 2020 and beyond Goals: Become a Full stack web developer and Contribute more to Open Source projects and my country.</li>
-<li>⚡ Fun fact about me: I love to draw, watch anime, play video games but above all of them, I love to bring ideas to life.</li>
+<li>📚 Enslaved in the depths of Computer Science at KNUST</li>
+<li>🌱 Aiming to become a formidable Developer 👨‍💻 and Digital Creator 🎥</li>
+<li>👯 Desperately seeking collaboration with fellow content creators</li>
+<li>🥅 2020 and beyond Goals: Ascend as a Full-stack web developer, Contribute to Open Source projects, and salvage my country</li>
+<li>⚡ Fun fact: I am bound to the art of drawing, immersed in the realm of anime, and shackled by the chains of video games. But above all, I derive sinister pleasure from bringing ideas to life</li>
 </ul>
 </p>
+<!-- BODY END -->
 
-<!-- Social Media Links -->
+<!-- SOCIAL MEDIA LINKS START -->
 <h2>📱 Connect with me:</h2>
 <p>
 <a href="https://bit.ly/Llewellyn-portfolio-v1" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-2196f3?style=for-the-badge&logo=opera&logoColor=fff"/></a>
