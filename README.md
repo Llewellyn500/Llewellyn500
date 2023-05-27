@@ -22,7 +22,7 @@
 
 <!-- HEADING START -->
 <h1> 
-<img src="./images/others/wave.gif" width="7%" alt="hand waving gif" title="waving hand" loading="eager" decoding="async" longdesc="A simple blue gif of a waving hand"/> Hi There! <img src="./images/others/wave.gif" width="7%" alt="hand waving gif" title="waving hand" loading="eager" decoding="async" longdesc="A simple blue gif of a waving hand"/>
+<img src="./images/others/wave.gif" width="6%" alt="hand waving gif" title="waving hand" loading="eager" decoding="async" longdesc="A simple blue gif of a waving hand"/> Hi There! <img src="./images/others/wave.gif" width="6%" alt="hand waving gif" title="waving hand" loading="eager" decoding="async" longdesc="A simple blue gif of a waving hand"/>
 
 I'm Llewellyn Paintsil 
 </h1>
