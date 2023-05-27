@@ -81,8 +81,6 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 
 ---
 
-<br />
-
 <h2 align="center"> 📺 Latest LAP YouTube Videos </h2>
 
 <!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2LGBMbnf3Vk"><img width="140px" src="https://i.ytimg.com/vi/2LGBMbnf3Vk/mqdefault.jpg"></a></td>
