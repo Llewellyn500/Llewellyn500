@@ -96,7 +96,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <!-- LP-TEACH-YOUTUBE:END -->
 
 <a href="https://www.youtube.com/@lap-tutorials" align="center">
-<img src="./images/badge/subscribe.png" align="center" width="30%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
+<img src="./images/badge/subscribe.png" align="center" width="40%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
 
 ---
 
@@ -115,7 +115,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
 <a href="https://www.youtube.com/@arclapain" align="center">
-<img src="./images/badge/subscribe.png" align="center" width="30%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
+<img src="./images/badge/subscribe.png" align="center" width="40%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
 
 ---
 
