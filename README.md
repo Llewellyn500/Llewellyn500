@@ -98,6 +98,8 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <a href="https://www.youtube.com/@lap-tutorials" align="center">
 <img src="./images/badge/subscribe.png" align="center" width="30%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
 
+---
+
 <h2 align="center"><img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/> Latest Arclapain YouTube Videos <img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/></h2>
 
 <!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AMrBwMHMadw"><img width="140px" src="https://i.ytimg.com/vi/AMrBwMHMadw/mqdefault.jpg"></a></td>
@@ -115,7 +117,9 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <a href="https://www.youtube.com/@arclapain" align="center">
 <img src="./images/badge/subscribe.png" align="center" width="30%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
 
-<h2 align="center"> 👌 GitHub Stats </h2>
+---
+
+<h2 align="center"><img src="./images/others/stats.gif" width="3%" alt="github stats GIF" title="github stats Gif" loading="lazy" decoding="async" longdesc="A custom made gif of GitHub Stats"/> GitHub Stats <img src="./images/others/stats.gif" width="3%" alt="github stats GIF" title="github stats Gif" loading="lazy" decoding="async" longdesc="A custom made gif of GitHub Stats"/></h2>
 <p align="center">
-<img src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&hide_border=true&theme=algolia" />
+<img src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&title_color=2196f3&bg_color=101010&text_color=fff&icon_color=2196f3&hide_border=true" />
 </p>
