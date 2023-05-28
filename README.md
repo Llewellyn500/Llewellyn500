@@ -95,8 +95,10 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <td><a href="https://www.youtube.com/watch?v=G1OQbTcYWm4">A Word For Art Part 02</a><br/>20 Jan, 2023</td></tr></table>
 <!-- LP-TEACH-YOUTUBE:END -->
 
-<a href="https://www.youtube.com/@lap-tutorials" align="center">
-<img src="./images/badge/subscribe.png" align="center" width="40%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
+<div align="center">
+<a href="https://www.youtube.com/@lap-tutorials">
+<img src="./images/badge/subscribe.png" width="40%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
+</div>
 
 ---
 
@@ -114,8 +116,10 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <td><a href="https://www.youtube.com/watch?v=WUqTzcEIkrQ">Zuma Deluxe Walkthrough Gameplay Part 01</a><br/>10 May, 2023</td></tr></table>
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
-<a href="https://www.youtube.com/@arclapain" align="center">
-<img src="./images/badge/subscribe.png" align="center" width="40%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
+<div align="center">
+<a href="https://www.youtube.com/@arclapain">
+<img src="./images/badge/subscribe.png" width="40%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
+</div>
 
 ---
 
