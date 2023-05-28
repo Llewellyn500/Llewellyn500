@@ -17,7 +17,7 @@
 <a href="https://twitter.com/LlewellynAdont1" target="_blank">
 <img src="./images/badge/my-twitter.png" align="center" width="24%" alt="Llewellyn's Twitter Badge" title="Llewellyn's Twitter" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Twitter account of Llewellyn Adonteng Paintsil"></a>
 <!-- My Instagram -->
-<a href="#" target="_blank">
+<a href="https://instagram.com/llewellynpaint?igshid=MzNINGNkZWQ4Mg==" target="_blank">
 <img src="./images/badge/my-instagram.png" width="24%" align="center" alt="Llewellyn's Instagram Badge" title="Llewellyn's Instagram" loading="eager" decoding="async" longdesc="A custom made badge that leads to the instagram account of Llewellyn Adonteng Paintsil"></a>
 </p>
 <!-- INTRO BADGES END -->
