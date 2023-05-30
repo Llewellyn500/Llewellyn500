@@ -84,7 +84,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <h2 align="center"><img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/> Latest LAP YouTube Videos <img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/></h2>
 
 <!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2LGBMbnf3Vk"><img width="140px" src="https://i.ytimg.com/vi/2LGBMbnf3Vk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2LGBMbnf3Vk">How to Download Anime on Your Phone</a><br/>17 May, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=2LGBMbnf3Vk">How to Download Anime on Phone</a><br/>17 May, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lYJUEe0_yzk"><img width="140px" src="https://i.ytimg.com/vi/lYJUEe0_yzk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lYJUEe0_yzk">Top 3 Linux Video Players</a><br/>10 May, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9QwHG2Tvwfs"><img width="140px" src="https://i.ytimg.com/vi/9QwHG2Tvwfs/mqdefault.jpg"></a></td>
