@@ -104,7 +104,9 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 
 <h2 align="center"><img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/> Latest Arclapain YouTube Videos <img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/></h2>
 
-<!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cHuHKlYb9o0"><img width="140px" src="https://i.ytimg.com/vi/cHuHKlYb9o0/mqdefault.jpg"></a></td>
+<!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IX0sKVZsrzE"><img width="140px" src="https://i.ytimg.com/vi/IX0sKVZsrzE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IX0sKVZsrzE">Honkai Star Rail Walkthrough Gameplay Part 05</a><br/>30 May, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cHuHKlYb9o0"><img width="140px" src="https://i.ytimg.com/vi/cHuHKlYb9o0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cHuHKlYb9o0">Zuma Deluxe Walkthrough Gameplay Part 02</a><br/>29 May, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AMrBwMHMadw"><img width="140px" src="https://i.ytimg.com/vi/AMrBwMHMadw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AMrBwMHMadw">Honkai Star Rail Walkthrough Gameplay Part 04</a><br/>25 May, 2023</td></tr></table>
@@ -112,8 +114,6 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <td><a href="https://www.youtube.com/watch?v=NcxFTo2BMss">Honkai Star Rail Walkthrough Gameplay Part 03</a><br/>23 May, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=B-lPMrDhWzo"><img width="140px" src="https://i.ytimg.com/vi/B-lPMrDhWzo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=B-lPMrDhWzo">Honkai Star Rail Walkthrough Gameplay Part 02</a><br/>18 May, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9r7MaT2N2ZQ"><img width="140px" src="https://i.ytimg.com/vi/9r7MaT2N2ZQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9r7MaT2N2ZQ">Honkai Star Rail Walkthrough Gameplay Part 01</a><br/>16 May, 2023</td></tr></table>
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
 <div align="center">
