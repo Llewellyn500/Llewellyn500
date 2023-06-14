@@ -85,14 +85,14 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 
 <!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=S3Z8imcc61A"><img width="140px" src="https://i.ytimg.com/vi/S3Z8imcc61A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S3Z8imcc61A">Useless Apps Part 02</a><br/>5 Jun, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2LGBMbnf3Vk"><img width="140px" src="https://i.ytimg.com/vi/2LGBMbnf3Vk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2LGBMbnf3Vk">How to Download Anime on Phone</a><br/>17 May, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lYJUEe0_yzk"><img width="140px" src="https://i.ytimg.com/vi/lYJUEe0_yzk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lYJUEe0_yzk">Top 3 Linux Video Players</a><br/>10 May, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9QwHG2Tvwfs"><img width="140px" src="https://i.ytimg.com/vi/9QwHG2Tvwfs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9QwHG2Tvwfs">A Word for Art Part 4 &lpar;Ant-man and the Wasp Quantumania&rpar;</a><br/>19 Feb, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8-_RD325V2A"><img width="140px" src="https://i.ytimg.com/vi/8-_RD325V2A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8-_RD325V2A">A Word for Art Part 03 &lpar;Word&rpar;</a><br/>8 Feb, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=G1OQbTcYWm4"><img width="140px" src="https://i.ytimg.com/vi/G1OQbTcYWm4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=G1OQbTcYWm4">A Word For Art Part 02</a><br/>20 Jan, 2023</td></tr></table>
 <!-- LP-TEACH-YOUTUBE:END -->
 
 <div align="center">
