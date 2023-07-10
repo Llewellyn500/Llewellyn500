@@ -66,6 +66,15 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 </p>
 <!-- SOCIAL MEDIA LINKS END -->
 
+<!-- Spotify now playing start -->
+<div align="center">
+  
+[![Spotify](https://spotify-now-playing-two-nu.vercel.app/api/spotify)](https://open.spotify.com/user/31oqgy33mbfmztovhp2eguowwti4)
+
+</div>
+<!-- Spotify now playing end -->
+
+
 <!-- --- 
 
 <h2 align="center"> 👨‍💻 Languages and Tools:</h2>
