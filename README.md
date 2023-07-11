@@ -67,26 +67,13 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <!-- SOCIAL MEDIA LINKS END -->
 
 <!-- Spotify now playing start -->
-<div align="center">
+<div>
+<h2><img src="./images/others/music.png" alt="music icon" width="3%" title="My Spotify now playing" loading="lazy" decoding="async" longdesc="A musical note"/> Spotify Now Playing <img src="./images/others/music.png" alt="music icon" width="3%" title="My Spotify now playing" loading="lazy" decoding="async" longdesc="A musical note"/></h2>
   
 [![Spotify](https://spotify-now-playing-two-nu.vercel.app/api/spotify)](https://open.spotify.com/user/31oqgy33mbfmztovhp2eguowwti4)
 
 </div>
 <!-- Spotify now playing end -->
-
-
-<!-- --- 
-
-<h2 align="center"> 👨‍💻 Languages and Tools:</h2>
-<br />
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,md,react,nodejs,vscode,visualstudio,github,git,linux,figma,ae,ai,ps,,&perline=5" />
-  </a>
-</p>
-
---- -->
 
 ---
 
