@@ -100,16 +100,16 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 
 <h2 align="center"><img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/> Latest Arclapain YouTube Videos <img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/></h2>
 
-<!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0vALnkQ04bk"><img width="140px" src="https://i.ytimg.com/vi/0vALnkQ04bk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0vALnkQ04bk">Naraka Bladepoint Gameplay walkthrough Part 01</a><br/>18 Jul, 2023</td></tr></table>
+<!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OcjeQ8iiPD8"><img width="140px" src="https://i.ytimg.com/vi/OcjeQ8iiPD8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OcjeQ8iiPD8">Naraka Bladepoint Walkthrough Gameplay Part 02 | No Commentary</a><br/>19 Jul, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0vALnkQ04bk"><img width="140px" src="https://i.ytimg.com/vi/0vALnkQ04bk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0vALnkQ04bk">Naraka Bladepoint Gameplay walkthrough Part 01 | First Time | No Commentary</a><br/>18 Jul, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=U3kEwn_5H8k"><img width="140px" src="https://i.ytimg.com/vi/U3kEwn_5H8k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=U3kEwn_5H8k">Hill Climb Racing 2 Walkthrough Gameplay Part 01</a><br/>17 Jul, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=atBtBvZi7lY"><img width="140px" src="https://i.ytimg.com/vi/atBtBvZi7lY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=atBtBvZi7lY">Zuma Deluxe Walkthrough Gameplay Part 08 | Stage 8</a><br/>12 Jul, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Uu86tYYdak8"><img width="140px" src="https://i.ytimg.com/vi/Uu86tYYdak8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Uu86tYYdak8">Zuma Deluxe Walkthrough Gameplay Part 07 | Stage 7</a><br/>11 Jul, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=D99K31kW6rs"><img width="140px" src="https://i.ytimg.com/vi/D99K31kW6rs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=D99K31kW6rs">Zuma Deluxe Walkthrough Gameplay Part 06 | Stage 6</a><br/>10 Jul, 2023</td></tr></table>
 <!-- ARCLAPAIN-YOUTUBE:END -->
 
 <div align="center">
