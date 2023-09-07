@@ -18,8 +18,8 @@ jobs:
           channel_id: UCcrvHbgE3u_eDfYm6iJKEvg
           lang: en
           comment_tag_name: LAP-TUTORIALS-YOUTUBE-CARDS
-          background_color: "#0d1117"
-          title_color: "#ffffff"
+          background_color: "#101010"
+          title_color: "#FBFBFD"
           stats_color: "#2196f3"
-          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
-          theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#2196f3" }'
+          theme_context_light: '{ "background_color": "#101010", "title_color": "#FBFBFD", "stats_color": "#2196f3" }'
+          theme_context_dark: '{ "background_color": "#101010", "title_color": "#FBFBFD", "stats_color": "#2196f3" }'
