@@ -68,7 +68,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 
 <!-- Spotify now playing start -->
 <div>
-<h2><img src="./images/others/music.png" alt="music icon" width="3%" title="My Spotify now playing" loading="lazy" decoding="async" longdesc="A musical note"/> Spotify Now Playing <img src="./images/others/music.png" alt="music icon" width="3%" title="My Spotify now playing" loading="lazy" decoding="async" longdesc="A musical note"/></h2>
+<h2><img src="./images/others/music.gif" alt="music icon" width="3%" title="My Spotify now playing" loading="lazy" decoding="async" longdesc="A musical note"/> Spotify Now Playing <img src="./images/others/music.gif" alt="music icon" width="3%" title="My Spotify now playing" loading="lazy" decoding="async" longdesc="A musical note"/></h2>
   
 [![Spotify](https://spotify-now-playing-two-nu.vercel.app/api/spotify)](https://open.spotify.com/user/31oqgy33mbfmztovhp2eguowwti4)
 
