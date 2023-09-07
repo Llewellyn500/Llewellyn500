@@ -17,4 +17,4 @@ jobs:
         with:
           channel_id: UCcrvHbgE3u_eDfYm6iJKEvg
           lang: en
-        #   comment_tag_name: LAP-TUTORIALS-YOUTUBE-CARDS
+          comment_tag_name: LAP-TUTORIALS-YOUTUBE-CARDS
