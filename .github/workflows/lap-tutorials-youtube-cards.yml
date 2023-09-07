@@ -1,0 +1,20 @@
+name: LAP-Tutotials GitHub Readme YouTube Cards
+on:
+  schedule:
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Allow the job to commit to the repository
+    permissions:
+      contents: write
+    # Run the GitHub Readme YouTube Cards action
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCcrvHbgE3u_eDfYm6iJKEvg
+          lang: en
+        #   comment_tag_name: LAP-TUTORIALS-YOUTUBE-CARDS

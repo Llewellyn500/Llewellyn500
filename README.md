@@ -79,6 +79,9 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 
 <h2 align="center"><img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/> Latest LAP YouTube Videos <img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/></h2>
 
+<!-- BEGIN LAP-TUTORIALS-YOUTUBE-CARDS -->
+<!-- END LAP-TUTORIALS-YOUTUBE-CARDS -->
+
 <!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=S3Z8imcc61A"><img width="140px" src="https://i.ytimg.com/vi/S3Z8imcc61A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S3Z8imcc61A">Useless Apps Part 02</a><br/>5 Jun, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lYJUEe0_yzk"><img width="140px" src="https://i.ytimg.com/vi/lYJUEe0_yzk/mqdefault.jpg"></a></td>
