@@ -88,18 +88,6 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 [![A Word For Art Part 1](https://ytcards.demolab.com/?id=ONFb340VjL8&title=A+Word+For+Art+Part+1&lang=en&timestamp=1674032412&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "A Word For Art Part 1")](https://www.youtube.com/watch?v=ONFb340VjL8)
 <!-- END LAP-TUTORIALS-YOUTUBE-CARDS -->
 
-<!-- LP-TEACH-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=S3Z8imcc61A"><img width="140px" src="https://i.ytimg.com/vi/S3Z8imcc61A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=S3Z8imcc61A">Useless Apps Part 02</a><br/>5 Jun, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=lYJUEe0_yzk"><img width="140px" src="https://i.ytimg.com/vi/lYJUEe0_yzk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lYJUEe0_yzk">Top 3 Linux Video Players</a><br/>10 May, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9QwHG2Tvwfs"><img width="140px" src="https://i.ytimg.com/vi/9QwHG2Tvwfs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9QwHG2Tvwfs">A Word for Art Part 4 &lpar;Ant-man and the Wasp Quantumania&rpar;</a><br/>19 Feb, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8-_RD325V2A"><img width="140px" src="https://i.ytimg.com/vi/8-_RD325V2A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8-_RD325V2A">A Word for Art Part 03 &lpar;Word&rpar;</a><br/>8 Feb, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=G1OQbTcYWm4"><img width="140px" src="https://i.ytimg.com/vi/G1OQbTcYWm4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=G1OQbTcYWm4">A Word For Art Part 02</a><br/>20 Jan, 2023</td></tr></table>
-<!-- LP-TEACH-YOUTUBE:END -->
-
 <div align="center">
 <a href="https://www.youtube.com/@lap-tutorials">
 <img src="./images/badge/subscribe.png" width="40%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
@@ -109,17 +97,8 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 
 <h2 align="center"><img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/> Latest Arclapain YouTube Videos <img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/></h2>
 
-<!-- ARCLAPAIN-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Gw_2s63vtdM"><img width="140px" src="https://i.ytimg.com/vi/Gw_2s63vtdM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Gw_2s63vtdM">Naraka Bladepoint Walkthrough Gameplay Part 04 | Bloodbath • Solo | First Try</a><br/>21 Jul, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=VGixUDcL5LM"><img width="140px" src="https://i.ytimg.com/vi/VGixUDcL5LM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VGixUDcL5LM">Naraka Bladepoint Walkthrough Gameplay Part 03 | Dharma-Ending Ruin • Trios | No Commentary</a><br/>20 Jul, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=OcjeQ8iiPD8"><img width="140px" src="https://i.ytimg.com/vi/OcjeQ8iiPD8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OcjeQ8iiPD8">Naraka Bladepoint Walkthrough Gameplay Part 02 | No Commentary</a><br/>19 Jul, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0vALnkQ04bk"><img width="140px" src="https://i.ytimg.com/vi/0vALnkQ04bk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0vALnkQ04bk">Naraka Bladepoint Gameplay walkthrough Part 01 | First Time | No Commentary</a><br/>18 Jul, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=U3kEwn_5H8k"><img width="140px" src="https://i.ytimg.com/vi/U3kEwn_5H8k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=U3kEwn_5H8k">Hill Climb Racing 2 Walkthrough Gameplay Part 01</a><br/>17 Jul, 2023</td></tr></table>
-<!-- ARCLAPAIN-YOUTUBE:END -->
+<!-- BEGIN ARCLAPAIN-YOUTUBE-CARDS -->
+<!-- END ARCLAPAIN-YOUTUBE-CARDS -->
 
 <div align="center">
 <a href="https://www.youtube.com/@arclapain">
