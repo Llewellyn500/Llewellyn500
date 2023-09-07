@@ -12,7 +12,7 @@
 <img src="./images/badge/my-portfolio-down.png" align="center" width="24%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil"></a> 
 <!-- My Github -->
 <a href="https://github.com/Llewellyn500" target="_blank">
-<img src="./images/badge/my-github.png" align="center" width="24%" alt="Llewellyn's Github Profile Badge" title="Llewellyn's Github Profile" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Github Profile of Llewellyn Adonteng Paintsil"></a>
+<img src="./images/badge/socialize.png" align="center" width="24%" alt="Llewellyn's Github Profile Badge" title="Llewellyn's Github Profile" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Github Profile of Llewellyn Adonteng Paintsil"></a>
 <!-- My Twitter -->
 <a href="https://twitter.com/LlewellynAdont1" target="_blank">
 <img src="./images/badge/my-twitter.png" align="center" width="24%" alt="Llewellyn's Twitter Badge" title="Llewellyn's Twitter" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Twitter account of Llewellyn Adonteng Paintsil"></a>
