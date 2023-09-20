@@ -40,7 +40,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <li>📚 Enslaved in the depths of Computer Science at KNUST</li>
 <li>🌱 Aiming to become a formidable Developer 👨‍💻 and Digital Creator 🎥</li>
 <li>👯 Desperately seeking collaboration with fellow content creators</li>
-<li>🥅 2023 and beyond Goals: Ascend as a Full-stack web developer, Contribute to Open Source projects, and salvage my country</li>
+<li>🥅 2023 and beyond Goals: Contribute to Open Source projects, and salvage my country</li>
 <li>⚡ Fun fact: I am bound to the art of drawing, immersed in the realm of anime, and shackled by the chains of video games. But above all, I derive sinister pleasure from bringing ideas to life</li>
 </ul>
 </p>
