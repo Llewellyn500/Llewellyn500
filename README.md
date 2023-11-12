@@ -40,7 +40,10 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <!-- BODY END -->
 
 <!-- SOCIAL MEDIA LINKS START -->
-<div><img src="./images/others/connect.gif" width="3%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/> <span style="font-size: large"> Connect with me: </span> <img src="./images/others/connect.gif" width="3%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/></div>
+<div>
+<img src="./images/badge/connect-with-me.png" align="left" width="24%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil">
+<!-- <img src="./images/others/connect.gif" width="3%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/> <span style="font-size: large"> Connect with me: </span> <img src="./images/others/connect.gif" width="3%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/> -->
+</div></br>
 <p>
 <a href="#" target="_blank">
 <img src="./images/icons/portfolio-[down].png" width="10%" alt="Llewellyn Portfolio Icon" title="Llewellyn's Portfolio" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Portfolio of Llewellyn Adonteng Paintsil"/></a>
