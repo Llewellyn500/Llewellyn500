@@ -22,15 +22,6 @@
 </p>
 <!-- INTRO BADGES END -->
 
-<!-- HEADING START -->
-<div> 
-<img src="./images/others/wave.gif" width="5%" alt="hand waving gif" title="waving hand" loading="eager" decoding="async" longdesc="A simple blue gif of a waving hand"/> <b> Hi There! </b> <img src="./images/others/wave.gif" width="5%" alt="hand waving gif" title="waving hand" loading="eager" decoding="async" longdesc="A simple blue gif of a waving hand"/>
-
-<b>I'm Llewellyn Paintsil </b>
-</div>
-
----
-
 <!-- BODY START -->
 <p>
 I am a tormented being, a Student, Graphic Designer, Developer, and YouTube content creator from Ghana. Amidst the shadows of the Covid pandemic in 2020, I began coding with only my phone, a cruel tool of limitation. With divine intervention, I endured, suppressed my love for computers to pass the trials of academia. Explore my GitHub profile, where darkness and creativity intertwine, and witness the remnants of shattered dreams. Enter this abyss, if you dare, and embrace the void that awaits.
@@ -49,7 +40,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <!-- BODY END -->
 
 <!-- SOCIAL MEDIA LINKS START -->
-<h2><img src="./images/others/connect.gif" width="3%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/> Connect with me: <img src="./images/others/connect.gif" width="3%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/></h2>
+<div><img src="./images/others/connect.gif" width="3%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/> <h2> Connect with me:</h2> <img src="./images/others/connect.gif" width="3%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/></div>
 <p>
 <a href="#" target="_blank">
 <img src="./images/icons/portfolio-[down].png" width="10%" alt="Llewellyn Portfolio Icon" title="Llewellyn's Portfolio" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Portfolio of Llewellyn Adonteng Paintsil"/></a>
