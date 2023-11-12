@@ -24,7 +24,7 @@
 
 <!-- HEADING START -->
 <h1> 
-<img src="./images/others/wave.gif" width="5%" alt="hand waving gif" title="waving hand"/> Hi There! <img src="./images/others/wave.gif" width="5%" alt="hand waving gif" title="waving hand"/>
+<img src="./images/others/wave.gif"  alt="hand waving gif" title="waving hand"/> Hi There! <img src="./images/others/wave.gif" width="5%" alt="hand waving gif" title="waving hand"/>
 
 I'm Llewellyn Paintsil
 
