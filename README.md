@@ -43,8 +43,11 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <div>
 <img src="./images/badge/connect-with-me.png" align="left" width="24%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil">
 <!-- <img src="./images/others/connect.gif" width="3%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/> <span style="font-size: large"> Connect with me: </span> <img src="./images/others/connect.gif" width="3%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/> -->
-</div></br>
-<p>
+</div>
+
+<br>
+
+<div>
 <a href="#" target="_blank">
 <img src="./images/icons/portfolio-[down].png" width="10%" alt="Llewellyn Portfolio Icon" title="Llewellyn's Portfolio" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Portfolio of Llewellyn Adonteng Paintsil"/></a>
 <a href="https://www.linkedin.com/in/llewellynpaintsil" target="_blank">
@@ -59,7 +62,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <img src="./images/icons/twitter.png" width="10%" alt="Llewellyn Twitter Icon" title="Llewellyn's Twitter Account" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Twitter of Llewellyn Adonteng Paintsil"/></a>
 <a href="https://www.patreon.com/LPTeach" target="_blank">
 <img src="./images/icons/patreon.png" width="10%" alt="Llewellyn Patreon Icon" title="Llewellyn's Patreon" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Patreon of Llewellyn Adonteng Paintsil"/></a>
-</p>
+</div>
 <!-- SOCIAL MEDIA LINKS END -->
 
 <!-- Spotify now playing start -->
