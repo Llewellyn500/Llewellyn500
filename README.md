@@ -42,7 +42,6 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 <!-- SOCIAL MEDIA LINKS START -->
 <div>
 <img src="./images/badge/connect-with-me.png"  width="24%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil">
-<!-- <img src="./images/others/connect.gif" width="3%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/> <span style="font-size: large"> Connect with me: </span> <img src="./images/others/connect.gif" width="3%" alt="Connect with me GIF" title="Connect With Me" loading="lazy" decoding="async" longdesc="A custom made gif of connecting with people"/> -->
 </div>
 <div>
 <a href="#" target="_blank">
@@ -62,10 +61,14 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 </div>
 <!-- SOCIAL MEDIA LINKS END -->
 
+---
+
 <!-- Spotify now playing start -->
 <div>
-<h2><img src="./images/others/music.gif" alt="music icon" width="3%" title="My Spotify now playing" loading="lazy" decoding="async" longdesc="A musical note"/> Spotify Now Playing <img src="./images/others/music.gif" alt="music icon" width="3%" title="My Spotify now playing" loading="lazy" decoding="async" longdesc="A musical note"/></h2>
-  
+<img src="./images/badge/spotify-now-play.png"  width="40%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil">
+</div>
+<div>
+
 [![Spotify](https://spotify-now-playing-two-nu.vercel.app/api/spotify)](https://open.spotify.com/user/31oqgy33mbfmztovhp2eguowwti4)
 
 </div>
@@ -73,7 +76,10 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 
 ---
 
-<h2 align="center"><img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/> Latest LAP YouTube Videos <img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/></h2>
+<div align="center">
+<img src="./images/badge/latest-lap-youtube-videos.png"  width="40%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil">
+</div>
+<div>
 
 <!-- BEGIN LAP-TUTORIALS-YOUTUBE-CARDS -->
 [![How To Check If Your PC Can Play a Game Before You Download It | Can You Run It?](https://ytcards.demolab.com/?id=HES5yDR6W5A&title=How+To+Check+If+Your+PC+Can+Play+a+Game+Before+You+Download+It+%7C+Can+You+Run+It%3F&lang=en&timestamp=1698346807&background_color=%23101010&title_color=%23FBFBFD&stats_color=%232196f3&max_title_lines=1&width=250&border_radius=5 "How To Check If Your PC Can Play a Game Before You Download It | Can You Run It?")](https://www.youtube.com/watch?v=HES5yDR6W5A#gh-dark-mode-only)[![How To Check If Your PC Can Play a Game Before You Download It | Can You Run It?](https://ytcards.demolab.com/?id=HES5yDR6W5A&title=How+To+Check+If+Your+PC+Can+Play+a+Game+Before+You+Download+It+%7C+Can+You+Run+It%3F&lang=en&timestamp=1698346807&background_color=%23101010&title_color=%23FBFBFD&stats_color=%232196f3&max_title_lines=1&width=250&border_radius=5 "How To Check If Your PC Can Play a Game Before You Download It | Can You Run It?")](https://www.youtube.com/watch?v=HES5yDR6W5A#gh-light-mode-only)
@@ -91,7 +97,10 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 
 ---
 
-<h2 align="center"><img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/> Latest Arclapain YouTube Videos <img src="./images/others/video.gif" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/></h2>
+<div align="center">
+<img src="./images/badge/latest-arclapain-youtube-video.png"  width="40%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil">
+</div>
+<div>
 
 <!-- BEGIN ARCLAPAIN-YOUTUBE-CARDS -->
 [![Attack on Titan 2 - Final Battle Walkthrough Gameplay Part 02 | Difficulty: Hard | No Commentary](https://ytcards.demolab.com/?id=SDtH4kXFLrY&title=Attack+on+Titan+2+-+Final+Battle+Walkthrough+Gameplay+Part+02+%7C+Difficulty%3A+Hard+%7C+No+Commentary&lang=en&timestamp=1699642811&background_color=%23101010&title_color=%23FBFBFD&stats_color=%232196f3&max_title_lines=1&width=250&border_radius=5 "Attack on Titan 2 - Final Battle Walkthrough Gameplay Part 02 | Difficulty: Hard | No Commentary")](https://www.youtube.com/watch?v=SDtH4kXFLrY#gh-dark-mode-only)[![Attack on Titan 2 - Final Battle Walkthrough Gameplay Part 02 | Difficulty: Hard | No Commentary](https://ytcards.demolab.com/?id=SDtH4kXFLrY&title=Attack+on+Titan+2+-+Final+Battle+Walkthrough+Gameplay+Part+02+%7C+Difficulty%3A+Hard+%7C+No+Commentary&lang=en&timestamp=1699642811&background_color=%23101010&title_color=%23FBFBFD&stats_color=%232196f3&max_title_lines=1&width=250&border_radius=5 "Attack on Titan 2 - Final Battle Walkthrough Gameplay Part 02 | Difficulty: Hard | No Commentary")](https://www.youtube.com/watch?v=SDtH4kXFLrY#gh-light-mode-only)
