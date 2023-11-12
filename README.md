@@ -23,9 +23,13 @@
 <!-- INTRO BADGES END -->
 
 <!-- HEADING START -->
-# ![hand waving gif](images/others/ezgif.com-resize%20(1).gif) Hi There! ![hand waving gif](images/others/ezgif.com-resize%20(1).gif)
+<div> 
+<img src="./images/others/wave.gif" width="5%" alt="hand waving gif" title="waving hand" loading="eager" decoding="async" longdesc="A simple blue gif of a waving hand"/> <b> Hi There! </b> <img src="./images/others/wave.gif" width="5%" alt="hand waving gif" title="waving hand" loading="eager" decoding="async" longdesc="A simple blue gif of a waving hand"/>
 
-I'm Llewellyn Paintsil
+<b>I'm Llewellyn Paintsil </b>
+</div>
+
+---
 
 <!-- BODY START -->
 <p>
