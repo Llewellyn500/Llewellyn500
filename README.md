@@ -41,7 +41,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 
 <!-- SOCIAL MEDIA LINKS START -->
 <div>
-<img src="./images/badge/connect-with-me.png"  width="24%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil">
+<img src="./images/badge/connect-with-me.png"  width="30%" alt="connect with me" title="Connect with me" loading="eager" decoding="async" />
 </div>
 <div>
 <a href="#" target="_blank">
@@ -65,7 +65,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 
 <!-- Spotify now playing start -->
 <div>
-<img src="./images/badge/spotify-now-play.png"  width="40%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil">
+<img src="./images/badge/spotify-now-play.png"  width="30%" alt="spotify now playing" title="Spotify Now Playing" loading="eager" decoding="async"/>
 </div>
 <div>
 
@@ -77,7 +77,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 ---
 
 <div align="center">
-<img src="./images/badge/latest-lap-youtube-videos.png"  width="40%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil">
+<img src="./images/badge/latest-lap-youtube-videos.png"  width="30%" alt="lap youtube videos" title="LAP - Tutorials YouTube Video" loading="eager" decoding="async" />
 </div>
 <div>
 
@@ -98,7 +98,7 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 ---
 
 <div align="center">
-<img src="./images/badge/latest-arclapain-youtube-video.png"  width="40%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil">
+<img src="./images/badge/latest-arclapain-youtube-video.png"  width="30%" alt="arclapain youtube videos" title="Arclapain YouTube Videos" loading="eager" decoding="async" />
 </div>
 <div>
 
@@ -118,7 +118,9 @@ I am a tormented being, a Student, Graphic Designer, Developer, and YouTube cont
 
 ---
 
-<h2 align="center"><img src="./images/others/stats.gif" width="3%" alt="github stats GIF" title="github stats Gif" loading="lazy" decoding="async" longdesc="A custom made gif of GitHub Stats"/> GitHub Stats <img src="./images/others/stats.gif" width="3%" alt="github stats GIF" title="github stats Gif" loading="lazy" decoding="async" longdesc="A custom made gif of GitHub Stats"/></h2>
+<div align="center">
+<img src="./images/badge/github-stats.png"  width="30%" alt="github stats" title="GitHub Stats" loading="eager" decoding="async" />
+</div>
 <p align="center">
 <img src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&title_color=2196f3&bg_color=101010&text_color=fff&icon_color=2196f3&hide_border=true" />
 </p>
