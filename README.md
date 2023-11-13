@@ -24,17 +24,19 @@
 
 <!-- BODY START -->
 <p>
-I am a tormented being, a Student, Graphic Designer, Developer, and YouTube content creator from Ghana. Amidst the shadows of the Covid pandemic in 2020, I began coding with only my phone, a cruel tool of limitation. With divine intervention, I endured, suppressed my love for computers to pass the trials of academia. Explore my GitHub profile, where darkness and creativity intertwine, and witness the remnants of shattered dreams. Enter this abyss, if you dare, and embrace the void that awaits.
+I'm a student, graphic designer, developer, and YouTuber from Ghana. I started coding during the 2020 Covid pandemic and have been balancing academic demands and a love for technology ever since. I'm resilient and determined to achieve my dreams. If you're up for it, come on this journey with me.
 </p>
 </div>
 
 <p>
 <ul>
-<li>📚 Enslaved in the depths of Computer Science at KNUST</li>
-<li>🌱 Aiming to become a formidable Developer 👨‍💻 and Digital Creator 🎥</li>
-<li>👯 Desperately seeking collaboration with fellow content creators</li>
-<li>🥅 2023 and beyond Goals: Contribute to Open Source projects, and salvage my country</li>
-<li>⚡ Fun fact: I am bound to the art of drawing, immersed in the realm of anime, and shackled by the chains of video games. But above all, I derive sinister pleasure from bringing ideas to life</li>
+<li>📚 Immersed in the realms of Computer Science at KNUST</li>
+<li>🌱 Aspiring to emerge as a formidable Developer 👨‍💻 and Digital Creator 🎥</li>
+<li>👯 Actively seeking collaboration with fellow content creators
+</li>
+<li>🥅 2023 and beyond Goals: Contribute to Open Source projects and uplift my country
+</li>
+<li>⚡ Fun fact: I am bound to the art of drawing, deeply engaged in the world of anime, and captivated by the allure of video games. Above all, I find great satisfaction in bringing ideas to life.</li>
 </ul>
 </p>
 <!-- BODY END -->
