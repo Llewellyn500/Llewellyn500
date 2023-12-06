@@ -8,8 +8,8 @@
 <!-- INTRO BADGES START -->
 <p>
 <!-- My portfolio -->
-<a href="#" target="_blank">
-<img src="./images/badge/my-portfolio-down.png" align="center" width="24%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil"></a> 
+<a href="https://llewellyn-portfolio.vercel.app/" target="_blank">
+<img src="./images/badge/my-portfolio-active.png" align="center" width="24%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil"></a> 
 <!-- My Github -->
 <a href="https://github.com/Llewellyn500" target="_blank">
 <img src="./images/badge/socialize.png" align="center" width="24%" alt="Llewellyn's Github Profile Badge" title="Llewellyn's Github Profile" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Github Profile of Llewellyn Adonteng Paintsil"></a>
@@ -46,8 +46,8 @@ I'm a student, graphic designer, developer, and YouTuber from Ghana. I started c
 <img src="./images/badge/connect-with-me.png"  width="30%" alt="connect with me" title="Connect with me" loading="eager" decoding="async" />
 </div>
 <div>
-<a href="#" target="_blank">
-<img src="./images/icons/portfolio-[down].png" width="10%" alt="Llewellyn Portfolio Icon" title="Llewellyn's Portfolio" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Portfolio of Llewellyn Adonteng Paintsil"/></a>
+<a href="https://llewellyn-portfolio.vercel.app/" target="_blank">
+<img src="./images/icons/portfolio-[up].png" width="10%" alt="Llewellyn Portfolio Icon" title="Llewellyn's Portfolio" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Portfolio of Llewellyn Adonteng Paintsil"/></a>
 <a href="https://www.linkedin.com/in/llewellynpaintsil" target="_blank">
 <img src="./images/icons/linkedin.png" width="10%" alt="Llewellyn Linkedin Profile Icon" title="Llewellyn's Linkedin Profile" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Linkedin of Llewellyn Adonteng Paintsil"/></a>
 <a href="https://www.youtube.com/@lap-tutorials" target="_blank">
