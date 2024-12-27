@@ -70,10 +70,10 @@ Hey! 👋 I'm this tech-obsessed creative from Ghana who got back into coding in
 ---
 
 <!-- Spotify now playing start -->
-<div>
-<img src="./images/badge/spotify-now-play.png"  width="30%" alt="spotify now playing" title="Spotify Now Playing" loading="eager" decoding="async"/>
+<div align="center">
+<img src="./images/banner/v3/spotify-small-banner.png" alt="spotify now playing" title="Spotify Now Playing" loading="eager" decoding="async"/>
 </div>
-<div>
+<div align="center">
 
 [![Spotify](https://spotify-now-playing-two-nu.vercel.app/api/spotify)](https://open.spotify.com/user/31oqgy33mbfmztovhp2eguowwti4)
 
