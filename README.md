@@ -42,8 +42,8 @@ Hey! 👋 I'm this tech-obsessed creative from Ghana who got back into coding in
 <!-- BODY END -->
 
 <!-- SOCIAL MEDIA LINKS START -->
-<div>
-<img src="./images/badge/connect-with-me.png"  width="30%" alt="connect with me" title="Connect with me" loading="eager" decoding="async" />
+<div align="center">
+<img src="./images/banner/v3/connect-small-banner.png" alt="connect with me" title="Connect with me" loading="eager" decoding="async"/>
 </div>
 <div>
 <a href="https://llewellyn-portfolio.vercel.app/" target="_blank">
