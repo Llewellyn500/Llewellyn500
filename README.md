@@ -41,6 +41,8 @@ Hey! 👋 I'm this tech-obsessed creative from Ghana who got back into coding in
 </p>
 <!-- BODY END -->
 
+<p> </p>
+
 <!-- SOCIAL MEDIA LINKS START -->
 <div align="center">
 <img src="./images/banner/v3/connect-small-banner.png" alt="connect with me" title="Connect with me" loading="eager" decoding="async"/>
