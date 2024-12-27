@@ -9,7 +9,7 @@
 <p>
 <!-- My portfolio -->
 <a href="https://llewellyn-portfolio.vercel.app/" target="_blank">
-<img src="./images/badge/my-portfolio-active.png" align="center" width="24%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil"></a> 
+<img src="./images/badge/v2/portfolio.png" align="center" width="24%" alt="Llewellyn's Portfolio Badge [Down]" title="Llewellyn's Portfolio [Down]" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Portfolio of Llewellyn Adonteng Paintsil"></a> 
 <!-- My Github -->
 <a href="https://github.com/Llewellyn500" target="_blank">
 <img src="./images/badge/socialize.png" align="center" width="24%" alt="Llewellyn's Github Profile Badge" title="Llewellyn's Github Profile" loading="eager" decoding="async" longdesc="A custom made badge that leads to the Github Profile of Llewellyn Adonteng Paintsil"></a>
