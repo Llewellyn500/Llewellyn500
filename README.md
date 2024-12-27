@@ -24,19 +24,19 @@
 
 <!-- BODY START -->
 <p>
-I'm a student, graphic designer, developer, and YouTuber from Ghana. I started coding during the 2020 Covid pandemic and have been balancing academic demands and a love for technology ever since. I'm resilient and determined to achieve my dreams. If you're up for it, come on this journey with me.
+Hey! 👋 I'm this tech-obsessed creative from Ghana who got back into coding in 2020, now juggling school, work, development, and my passion for creating simple tutorials on my YouTube channel. Once I start bringing an idea to life through code or design, it's literally impossible to pull me away from my laptop! Whether it's pushing pixels as a designer or building something new with code, I'm all in. School's almost wrapped up, and I'm more fired up than ever to chase my dreams in tech. Want to see what happens next? 😊
 </p>
 </div>
 
 <p>
 <ul>
-<li>📚 Immersed in the realms of Computer Science at KNUST</li>
-<li>🌱 Aspiring to emerge as a formidable Developer 👨‍💻 and Digital Creator 🎥</li>
-<li>👯 Actively seeking collaboration with fellow content creators
+<li>📚 Diving deep into Computer Science at KNUST.</li>
+<li>🌱 Crafting my path as a Developer 👨‍💻 and Digital Creator 🎥 one line of code and video at a time.</li>
+<li>👯 Let's create something awesome together! Always excited to collaborate with fellow creators and developers.
 </li>
-<li>🥅 2023 and beyond Goals: Contribute to Open Source projects and uplift my country
+<li>🥅 Vision 2023+: Making waves in Open Source and putting Ghana on the tech map 🌟.
 </li>
-<li>⚡ Fun fact: I am bound to the art of drawing, deeply engaged in the world of anime, and captivated by the allure of video games. Above all, I find great satisfaction in bringing ideas to life.</li>
+<li>⚡ Fun fact: When I'm not coding, You'll find me sketching away, binge-watching anime, crushing video games, or (my favorite) turning wild ideas into reality!</li>
 </ul>
 </p>
 <!-- BODY END -->
