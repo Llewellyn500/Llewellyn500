@@ -45,9 +45,9 @@ Hey! 👋 I'm this tech-obsessed creative from Ghana who got back into coding in
 <div align="center">
 <img src="./images/banner/v3/connect-small-banner.png" alt="connect with me" title="Connect with me" loading="eager" decoding="async"/>
 </div>
-<div>
+<div align="center">
 <a href="https://llewellyn-portfolio.vercel.app/" target="_blank">
-<img src="./images/icons/portfolio-[up].png" width="10%" alt="Llewellyn Portfolio Icon" title="Llewellyn's Portfolio" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Portfolio of Llewellyn Adonteng Paintsil"/></a>
+<img src="./images/icons/v2/portfolio.png" width="10%" alt="Llewellyn Portfolio Icon" title="Llewellyn's Portfolio" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Portfolio of Llewellyn Adonteng Paintsil"/></a>
 <a href="https://www.linkedin.com/in/llewellynpaintsil" target="_blank">
 <img src="./images/icons/linkedin.png" width="10%" alt="Llewellyn Linkedin Profile Icon" title="Llewellyn's Linkedin Profile" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Linkedin of Llewellyn Adonteng Paintsil"/></a>
 <a href="https://www.youtube.com/@lap-tutorials" target="_blank">
@@ -55,7 +55,7 @@ Hey! 👋 I'm this tech-obsessed creative from Ghana who got back into coding in
 <a href="https://instagram.com/llewellynpaint?igshid=MzNINGNkZWQ4Mg==" target="_blank">
 <img src="./images/icons/instagram.png" width="10%" alt="Llewellyn Instagram Icon" title="Llewellyn's Instagram" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Instagram account of Llewellyn Adonteng Paintsil"/></a>
 <a href="https://www.youtube.com/@arclapain" target="_blank">
-<img src="./images/icons/arclapain.png" width="10%" alt="Arclapain YouTube Channel Icon" title="Arclapain YouTube Channel" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Channel of Arclapain"/></a>
+<img src="./images/icons/v2/arclapain.png" width="10%" alt="Arclapain YouTube Channel Icon" title="Arclapain YouTube Channel" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Channel of Arclapain"/></a>
 <a href="https://twitter.com/LlewellynAdont1" target="_blank">
 <img src="./images/icons/twitter.png" width="10%" alt="Llewellyn Twitter Icon" title="Llewellyn's Twitter Account" loading="lazy" decoding="async" longdesc="A custom made icon that leads to the Twitter of Llewellyn Adonteng Paintsil"/></a>
 <a href="https://www.patreon.com/LPTeach" target="_blank">
