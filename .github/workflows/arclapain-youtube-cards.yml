@@ -18,8 +18,8 @@ jobs:
           channel_id: UCcXLspJdUMq5E8-jU0CXuNA
           lang: en
           comment_tag_name: ARCLAPAIN-YOUTUBE-CARDS
-          background_color: "#101010"
+          background_color: "#121212"
           title_color: "#FBFBFD"
-          stats_color: "#2196f3"
-          theme_context_light: '{ "background_color": "#101010", "title_color": "#FBFBFD", "stats_color": "#2196f3" }'
-          theme_context_dark: '{ "background_color": "#101010", "title_color": "#FBFBFD", "stats_color": "#2196f3" }'
+          stats_color: "#8a2be2"
+          theme_context_light: '{ "background_color": "#121212", "title_color": "#FBFBFD", "stats_color": "#8a2be2" }'
+          theme_context_dark: '{ "background_color": "#121212", "title_color": "#FBFBFD", "stats_color": "#8a2be2" }'

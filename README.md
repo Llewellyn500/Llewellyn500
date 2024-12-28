@@ -83,9 +83,12 @@ Hey! 👋 I'm this tech-obsessed creative from Ghana who got back into coding in
 ---
 
 <div align="center">
-<img src="./images/badge/latest-lap-youtube-videos.png"  width="30%" alt="lap youtube videos" title="LAP - Tutorials YouTube Video" loading="eager" decoding="async" />
+
+<img src="./images/banner/v3/lap-tutorials-small-banner.png" alt="lap-tutorials youtube videos" title="LAP - Tutorials YouTube Video" loading="eager" decoding="async" />
+
 </div>
-<div>
+
+<div align="center">
 
 <!-- BEGIN LAP-TUTORIALS-YOUTUBE-CARDS -->
 
@@ -99,16 +102,19 @@ Hey! 👋 I'm this tech-obsessed creative from Ghana who got back into coding in
 <!-- END LAP-TUTORIALS-YOUTUBE-CARDS -->
 
 <div align="center">
+
 <a href="https://www.youtube.com/@lap-tutorials">
-<img src="./images/badge/subscribe.png" width="40%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
+<img src="./images/badge/v2/subscribe.png" width="40%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
+
 </div>
 
 ---
 
 <div align="center">
-<img src="./images/badge/latest-arclapain-youtube-video.png"  width="30%" alt="arclapain youtube videos" title="Arclapain YouTube Videos" loading="eager" decoding="async" />
+
+<img src="./images/banner/v3/arclapain-small-banner.png" alt="arclapain youtube videos" title="Arclapain YouTube Videos" loading="eager" decoding="async" />
+
 </div>
-<div>
 
 <!-- BEGIN ARCLAPAIN-YOUTUBE-CARDS -->
 
@@ -121,9 +127,13 @@ Hey! 👋 I'm this tech-obsessed creative from Ghana who got back into coding in
 
 <!-- END ARCLAPAIN-YOUTUBE-CARDS -->
 
+</div>
+
 <div align="center">
+
 <a href="https://www.youtube.com/@arclapain">
-<img src="./images/badge/subscribe.png" width="40%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
+<img src="./images/badge/v2/subscribe.png" width="40%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
+
 </div>
 
 ---
