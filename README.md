@@ -135,8 +135,11 @@ Hey! 👋 I'm this tech-obsessed creative from Ghana who got back into coding in
 ---
 
 <div align="center">
-<img src="./images/badge/github-stats.png"  width="30%" alt="github stats" title="GitHub Stats" loading="eager" decoding="async" />
+
+<img src="./images/banner/v3/github-small-banner.png" alt="github stats" title="GitHub Stats" loading="eager" decoding="async" />
+
 </div>
+
 <p align="center">
-<img src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&title_color=2196f3&bg_color=101010&text_color=fff&icon_color=2196f3&hide_border=true" />
+<img src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&title_color=8a2be2&bg_color=121212&text_color=fff&icon_color=8a2be2&hide_border=true" />
 </p>
