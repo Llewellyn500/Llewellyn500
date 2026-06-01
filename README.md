@@ -131,15 +131,3 @@
 <img src="./images/badge/v2/subscribe.png" width="40%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
 
 </div>
-
----
-
-<div align="center">
-
-<img src="./images/banner/v3/github-small-banner.png" alt="github stats" title="GitHub Stats" loading="eager" decoding="async" />
-
-</div>
-
-<p align="center">
-<img src="https://github-readme-stats-rho-rouge.vercel.app/api?username=Llewellyn500&show_icons=true&title_color=8a2be2&bg_color=121212&text_color=fff&icon_color=8a2be2&hide_border=true" />
-</p>
