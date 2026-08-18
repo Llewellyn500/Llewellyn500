@@ -75,7 +75,7 @@
 </div>
 <div align="center">
 
-[![Spotify](https://spotify-now-playing-two-nu.vercel.app/api/spotify)](https://open.spotify.com/user/31oqgy33mbfmztovhp2eguowwti4)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31oqgy33mbfmztovhp2eguowwti4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31oqgy33mbfmztovhp2eguowwti4&redirect=true)
 
 </div>
 <!-- Spotify now playing end -->
