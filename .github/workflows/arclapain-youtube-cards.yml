@@ -13,7 +13,25 @@ jobs:
       contents: write
     # Run the GitHub Readme YouTube Cards action
     steps:
+      - name: Check YouTube feed
+        id: feed
+        shell: bash
+        run: |
+          feed_url="https://www.youtube.com/feeds/videos.xml?channel_id=UCcXLspJdUMq5E8-jU0CXuNA"
+          feed_file="$(mktemp)"
+          trap 'rm -f "$feed_file"' EXIT
+          if curl --fail --silent --show-error --location \
+              --retry 3 --retry-delay 10 --retry-all-errors \
+              "$feed_url" --output "$feed_file" \
+            && grep --quiet '<entry>' "$feed_file"; then
+            echo "healthy=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "healthy=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::YouTube feed unavailable or empty; preserving the existing README cards."
+          fi
+
       - uses: DenverCoder1/github-readme-youtube-cards@main
+        if: steps.feed.outputs.healthy == 'true'
         with:
           channel_id: UCcXLspJdUMq5E8-jU0CXuNA
           lang: en
