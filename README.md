@@ -24,19 +24,25 @@
 
 <!-- BODY START -->
 <p>
-👋 From the moment I rediscovered the magic of code in 2020—a moment that reignited my passion for creation—I've been deeply immersed in the world of technology. I'm captivated by the process of transforming ideas into tangible realities, whether through the precision of code or the artistry of design. Every aspect of this journey sparks my curiosity, but it's the sheer joy of building something new, the thrill of seeing a concept come to life on screen, that truly fuels my drive.
+I’ve always liked coding and designing. Now, I get to do both as my work.
+
+What I care about most is making technology simple. I want to build things that are useful, easy to understand, and easy to use.
+
+That’s what I want my work to represent. Simplicity in tech.
 </p>
 </div>
 
 <p>
 <ul>
-<li>📚 Diving deep into Computer Science at KNUST, exploring the foundational principles that underpin the digital world.</li>
-<li>🌱 Crafting my path as a Developer 👨‍💻 and Digital Creator 🎥, meticulously building my skills one line of code and one video at a time.</li>
-<li> 👯 Let's create something awesome together! I'm always eager to collaborate with fellow creators and developers, sharing knowledge and building connections.
-</li>
-<li>🥅 Vision 2023+: Contributing meaningfully to the open-source community and showcasing the vibrant tech scene emerging from Ghana.
-</li>
-<li>⚡️ Fun fact: When I'm not immersed in the digital realm, you'll find me sketching, watching anime, gaming, or simply letting my imagination soar, transforming abstract ideas into concrete realities.</li>
+<li>💻 I’m a Software Engineer who enjoys coding, designing, and building useful things.</li>
+
+<li>🎨 I like turning ideas into simple products that are easy to understand and use.</li>
+
+<li>🤝 I’m always open to working with other developers and creators on interesting projects.</li>
+
+<li>🌍 I want to contribute more to open source and help showcase the growing tech community in Ghana.</li>
+
+<li>⚡ Fun fact: Outside tech, I enjoy sketching, anime, gaming, and turning random ideas into real projects.</li>
 </ul>
 </p>
 <!-- BODY END -->
